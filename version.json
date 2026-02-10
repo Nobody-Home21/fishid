@@ -1,0 +1,10 @@
+{
+  "txtVersion": 1,
+  "jsonVersion": 1,
+  "Json1Version": 1,
+  "onnxVersion": 1,
+  "txtUrl": "https://github.com/Nobody-Home21/fishid/blob/main/labels.txt",
+  "jsonUrl": "https://github.com/Nobody-Home21/fishid/blob/main/fishinfo.json",
+  "json1Url": "https://github.com/Nobody-Home21/fishid/blob/main/report.json",
+  "onnxUrl": "https://github.com/Nobody-Home21/fishid/blob/main/fish_classifier.onnx"
+}
