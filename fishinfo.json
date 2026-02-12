@@ -1,5 +1,31 @@
 {
-    "Ballyhoo": {
+	"Amberjack Greater": {
+        "DisplayName": "Greater Amberjack",
+        "BagLimit": "\n\nAtlantic (State/Federal) - 1 per person/daily\n-------\nGulf (State/Federal) - 1 per person/daily",
+        "MinSize": "\n\nAtlantic (State/Federal) - 28 inches\n-------\nGulf (State/Federal) - 34 inches",
+        "MaxSize": "None",
+        "Measurement": "Fork Length",
+        "Seasons": "\n\nAtlantic (State/Federal) - (CLOSED - April 1, 2026 To April 30, 2026)\n-------\nGulf (State/Federal) - (CLOSED - Sept. 27, 2025 To Aug.31, 2026)",
+        "Conditions": "\n\nSpecial regulations apply for this species when fishing in Biscayne National Park.\n---\nReef fish gear requirements apply",
+        "Gear": "\n\nLegal - Spears, gigs, hook and line, seine, cast net",
+        "IsEdible": true,
+        "IsProhibited": false,
+        "Description": "Found around wrecks, reefs, and rocky outcrops, typically in 60 to 300 feet of water, though juveniles may be found near the surface. Opportunistic feeders eating squid, crustaceans, and fish."
+    },
+	"Jack Yellow": {
+        "DisplayName": "Yellow Jack",
+        "BagLimit": "\n\nAtlantic (State/Federal) - 100 pounds per person or 2 fish (whichever is greater)\n---\nAtlantic (Federal) - Regulations no longer in effect\n-------\nGulf (State/Federal) - 100 pounds per person or 2 fish (whichever is greater)",
+        "MinSize": "\n\nAtlantic (State/Federal) - None\n-------\nGulf (State/Federal) - None",
+        "MaxSize": "None",
+        "Measurement": "None",
+        "Seasons": "\n\nAtlantic (State/Federal) - (OPEN - Year-Round)\n-------\nGulf (State/Federal) - (OPEN - Year-Round)",
+        "Conditions": "\n\nNon-stainless steel, non-offset circle hooks are required when using natural bait.\n---\nReef fish gear requirements apply",
+        "Gear": "\n\nLegal - Hook and line, spear, gig, haul seines, and cast nets\n-----\nIlegal - Explosives, chemicals, bang sticks, and fish traps",
+        "IsEdible": true,
+        "IsProhibited": false,
+        "Description": "Found in the Gulf of Mexico, the Caribbean, and along the Florida Atlantic coast. They inhabit deep wrecks in summer and shallow reefs/flats in winter. Eats live shrimp on a yellow jig head is the top choice."
+    },
+	"Ballyhoo": {
         "DisplayName": "Ballyhoo",
         "BagLimit": "None",
         "MinSize": "None",
