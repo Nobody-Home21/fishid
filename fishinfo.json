@@ -14,7 +14,7 @@
     },
 	"Jack Yellow": {
         "DisplayName": "Yellow Jack",
-        "BagLimit": "\n\nAtlantic (State/Federal) - 100 pounds per person or 2 fish (whichever is greater)\n---\nAtlantic (Federal) - Regulations no longer in effect\n-------\nGulf (State/Federal) - 100 pounds per person or 2 fish (whichever is greater)",
+        "BagLimit": "\n\nAtlantic (State) - 100 pounds per person or 2 fish (whichever is greater)\n---\nAtlantic (Federal) - Regulations no longer in effect\n-------\nGulf (State/Federal) - 100 pounds per person or 2 fish (whichever is greater)",
         "MinSize": "\n\nAtlantic (State/Federal) - None\n-------\nGulf (State/Federal) - None",
         "MaxSize": "None",
         "Measurement": "None",
@@ -24,6 +24,19 @@
         "IsEdible": true,
         "IsProhibited": false,
         "Description": "Found in the Gulf of Mexico, the Caribbean, and along the Florida Atlantic coast. They inhabit deep wrecks in summer and shallow reefs/flats in winter. Eats live shrimp on a yellow jig head is the top choice."
+    },
+	"Hogfish": {
+        "DisplayName": "Hogfish",
+        "BagLimit": "\n\nAtlantic (State/Federal) - 1 per person/daily\n-------\nGulf (State/Federal) - 5 per person/daily",
+        "MinSize": "\n\nAtlantic (State/Federal) - 16 inches\n-------\nGulf (State/Federal) - 14 inches",
+        "MaxSize": "None",
+        "Measurement": "Fork Length",
+        "Seasons": "\n\nAtlantic (State/Federal) - (OPEN - Open May 1 To Oct. 31)\n-------\nGulf (State/Federal) - (OPEN - Year-Round)",
+        "Conditions": "Special regulations apply for this species when fishing in Biscayne National Park.\n---\nIn the Atlantic reef fish fishery, gear rules require dehooking tools, and as of Jan. 1, 2021, non-stainless steel hooks in all state waters, and non-offset circle hooks N. of 28 ° N. latitude.\n-----\nNOTICE: Gulf federal waters start North of Cape Sable - 25° 09 North Latitude",
+        "Gear": "Legal - Spears, gigs, hook and line, seine, cast net",
+        "IsEdible": true,
+        "IsProhibited": false,
+        "Description": "hey inhabit offshore reefs, hard-bottom areas, and rocky ledges, typically in 10-100 feet of water, feeding on mollusks and crustaceans. They use their snouts to dig in the sand for crabs, sea urchins, and mollusks. They are often found in small groups or harems, with one male protecting multiple females."
     },
 	"Ballyhoo": {
         "DisplayName": "Ballyhoo",
