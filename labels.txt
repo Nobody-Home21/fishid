@@ -30,6 +30,7 @@ Grouper Tiger
 Grouper Yellowfin
 Grunt Porkfish
 Grunt White
+Hogfish
 Jack Blue Runner
 Jack Crevalle
 Jack Yellow
