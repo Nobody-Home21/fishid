@@ -1,8 +1,8 @@
 {
-  "txtVersion": 1,
-  "jsonVersion": 1,
-  "Json1Version": 1,
-  "onnxVersion": 1,
+  "txtVersion": 2,
+  "jsonVersion": 2,
+  "Json1Version": 2,
+  "onnxVersion": 2,
   "txtUrl": "https://raw.githubusercontent.com/Nobody-Home21/fishid/refs/heads/main/labels.txt",
   "jsonUrl": "https://raw.githubusercontent.com/Nobody-Home21/fishid/refs/heads/main/fishinfo.json",
   "json1Url": "https://raw.githubusercontent.com/Nobody-Home21/fishid/refs/heads/main/report.json",
