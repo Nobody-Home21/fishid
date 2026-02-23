@@ -12,6 +12,19 @@
         "IsProhibited": false,
         "Description": "Found around wrecks, reefs, and rocky outcrops, typically in 60 to 300 feet of water, though juveniles may be found near the surface. Opportunistic feeders eating squid, crustaceans, and fish."
     },
+	"Seatrout Spotted": {
+        "DisplayName": "Spotted Seatrout",
+        "BagLimit": "\n\nAtlantic/Gulf (State/Federal)\n-----\n\nWestern Panhandle: 3 per harvester\n---\nZero captain and crew bag limit when on a for-hire trip\n\nBig Bend: 5 per harvester\n---\nZero captain and crew bag limit when on a for-hire trip\n\nSouth: 3 per harvester\n---\nZero captain and crew bag limit when on a for-hire trip\n\nCentral East: 2 per harvester\n---\nZero captain and crew bag limit when on a for-hire trip\n\nNortheast: 5 per harvester\n---\nZero captain and crew bag limit when on a for-hire trip",
+        "MinSize": "\n\nAtlantic/Gulf (State/Federal)\n-----\n\nWestern Panhandle: 15 inches\n---\nBig Bend: 15 inches\n---\nSouth: 15 inches\n---\nCentral East: 15 inches\n---\nNortheast: 15 inches",
+        "MaxSize": "\n\nAtlantic/Gulf (State/Federal)\n-----\n\nWestern Panhandle: 19 inches\n---\nBig Bend: 19 inches\n---\nSouth: 19 inches\n---\nCentral East: 19 inches\n---\nNortheast: 19 inches\n\nMay possess one over 19 inches per vessel or, if fishing from shore, one over 19 inches per person, included in the bag limit.",
+        "Measurement": "Total Length",
+        "Seasons": "\n\nAtlantic/Gulf (State/Federal)\n-----\n\nWestern Panhandle: Closed February\n---\nBig Bend: Open year-round in most state waters\n---\nSouth: Open year-round\n---\nCentral East: Closed Nov. 1-Dec. 31\n---\nNortheast: Open year-round",
+        "Conditions": "\n\nSpecial regulations apply for this species when fishing in Biscayne National Park.\n\nZones:\n---\nWestern Panhandle: Escambia County through the portions of Gulf County west of longitude 85 degrees, 13.76 minutes but NOT including Indian Pass/Indian Lagoon\n---\nBig Bend: Remaining portion of Gulf County plus Indian Lagoon, and Franklin County through Fred Howard Park Causeway in Pinellas County near the Pasco County line.\n---\nSouth: Fred Howard Park Causeway in Pinellas County near the Pasco County line through Broward County.\n---\nCentral East: Palm Beach through Volusia counties.\n---\nNortheast: Flagler through Nassau counties.",
+        "Gear": "\n\nLegal - Hook and line; cast net\n-----\nIlegal - Cannot harvest using any multiple hook in conjunction with live or dead natural bait; snatching prohibited",
+        "IsEdible": true,
+        "IsProhibited": false,
+        "Description": "Commonly found in shallow, inshore waters, tidal creeks, and seagrass beds (often 4–10 feet deep) from New York to Mexico, with high concentrations in the Gulf of Mexico. They prefer water temperatures between and moving to deeper, warmer waters during. Primarily diet shrimp, pinfish, pigfish, and mullet and/or small crustaceans. Most active during dawn, dusk, and nighttime.\n\nCommon Techniques: Live bait (shrimp/mullet) under a popping cork, artificial lures (e.g., Gulp shrimp), topwater plugs, and jigs."
+    },
 	"Jack Yellow": {
         "DisplayName": "Yellow Jack",
         "BagLimit": "\n\nAtlantic (State) - 100 pounds per person or 2 fish (whichever is greater)\n---\nAtlantic (Federal) - Regulations no longer in effect\n-------\nGulf (State/Federal) - 100 pounds per person or 2 fish (whichever is greater)",
