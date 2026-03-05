@@ -686,9 +686,7 @@
         "IsProhibited": false,
         "Description": "Found in the Indian and Western Pacific Oceans. Juveniles often live in mangrove-lined estuaries, moving to deep, offshore reefs and wrecks as they mature. They are opportunistic carnivores that feed on small fish, crustaceans (shrimp, crabs), and cephalopods, particularly at night. They are notorious for being cautious, (bait-stealing) fish, requiring light tackle and fluorocarbon leaders. Yes, they will bite, so keep fingers away from their mouths."
     },
-	
-	
-	    "Snapper Black": {
+	"Snapper Black": {
         "DisplayName": "Black Snapper",
         "BagLimit": "\n\nAtlantic/Gulf (State/Federal)\n--\nUp to 10 per person within the 10 snapper aggregate bag limit",
         "MinSize": "None",
@@ -701,7 +699,7 @@
         "IsProhibited": false,
         "Description": "Adults are found over sandy or rocky bottoms, often near the continental shelf edge, while juveniles occupy shallower, inshore waters. Opportunistic predators feeding on small fishes, shrimp, worms, and squid."
     },
-	    "Snapper Queen": {
+	"Snapper Queen": {
         "DisplayName": "Queen Snapper",
         "BagLimit": "\n\nAtlantic/Gulf (State/Federal)\n--\nUp to 10 per person within the 10 snapper aggregate bag limit",
         "MinSize": "None",
@@ -714,7 +712,7 @@
         "IsProhibited": false,
         "Description": "They prefer rocky, deep-sea habitats and are often found in the Caribbean, Gulf of Mexico, and near the Bahamas. Queen snapper primarily feed on small fish, squid, and crustaceans."
     },
-	    "Snapper Blackfin": {
+	"Snapper Blackfin": {
         "DisplayName": "Blackfin Snapper",
         "BagLimit": "\n\nAtlantic/Gulf (State/Federal)\n--\nUp to 10 per person within the 10 snapper aggregate bag limit",
         "MinSize": "None",
@@ -727,8 +725,19 @@
         "IsProhibited": false,
         "Description": "Adults are found on deep rocky ledges and sandy bottoms near the edge of the continental shelf. Primarily feeds on smaller fish."
     },
-	
-	
+	"Snapper Dog": {
+        "DisplayName": "Dog Snapper",
+        "BagLimit": "\n\nAtlantic/Gulf (State/Federal)\n--\nUp to 10 per person within the 10 snapper aggregate bag limit",
+        "MinSize": "12 Inches",
+        "MaxSize": "None",
+        "Measurement": "Total Length",
+        "Seasons": "OPEN (year-round)",
+        "Conditions": "None",
+        "Gear": "Reef fish gear requirements apply.",
+        "IsEdible": true,
+        "IsProhibited": false,
+        "Description": "Solitary, nocturnal carnivores found in coastal waters, reefs, and rocky areas at depths of 5–100+ meters. Massachusetts to Brazil, including the Caribbean and Gulf of Mexico. Primarily feeds on fishes, crustaceans, and invertebrates."
+    },
     "Sheepshead": {
         "DisplayName": "Sheepshead",
         "BagLimit": "\n\nAtlantic/Gulf (State/Federal) - 8 per Person\nAtlantic/Gulf (State/Federal) - 50 per vessel, per trip during March and April",
