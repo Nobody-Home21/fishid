@@ -1,6 +1,7 @@
 {
 	"Amberjack Greater": {
         "DisplayName": "Greater Amberjack",
+		"Image": "",
         "BagLimit": "\n\nAtlantic (State/Federal) - 1 per person/daily\n-------\nGulf (State/Federal) - 1 per person/daily",
         "MinSize": "\n\nAtlantic (State/Federal) - 28 inches\n-------\nGulf (State/Federal) - 34 inches",
         "MaxSize": "None",
@@ -14,6 +15,7 @@
     },
 	"Seatrout Spotted": {
         "DisplayName": "Spotted Seatrout",
+		"Image": "",
         "BagLimit": "\n\nAtlantic/Gulf (State/Federal)\n-----\n\nWestern Panhandle: 3 per harvester\n---\nZero captain and crew bag limit when on a for-hire trip\n\nBig Bend: 5 per harvester\n---\nZero captain and crew bag limit when on a for-hire trip\n\nSouth: 3 per harvester\n---\nZero captain and crew bag limit when on a for-hire trip\n\nCentral East: 2 per harvester\n---\nZero captain and crew bag limit when on a for-hire trip\n\nNortheast: 5 per harvester\n---\nZero captain and crew bag limit when on a for-hire trip",
         "MinSize": "\n\nAtlantic/Gulf (State/Federal)\n-----\n\nWestern Panhandle: 15 inches\n---\nBig Bend: 15 inches\n---\nSouth: 15 inches\n---\nCentral East: 15 inches\n---\nNortheast: 15 inches",
         "MaxSize": "\n\nAtlantic/Gulf (State/Federal)\n-----\n\nWestern Panhandle: 19 inches\n---\nBig Bend: 19 inches\n---\nSouth: 19 inches\n---\nCentral East: 19 inches\n---\nNortheast: 19 inches\n\nMay possess one over 19 inches per vessel or, if fishing from shore, one over 19 inches per person, included in the bag limit.",
@@ -27,6 +29,7 @@
     },
 	"Jack Yellow": {
         "DisplayName": "Yellow Jack",
+		"Image": "",
         "BagLimit": "\n\nAtlantic (State) - 100 pounds per person or 2 fish (whichever is greater)\n---\nAtlantic (Federal) - Regulations no longer in effect\n-------\nGulf (State/Federal) - 100 pounds per person or 2 fish (whichever is greater)",
         "MinSize": "\n\nAtlantic (State/Federal) - None\n-------\nGulf (State/Federal) - None",
         "MaxSize": "None",
@@ -40,6 +43,7 @@
     },
 	"Hogfish": {
         "DisplayName": "Hogfish",
+		"Image": "",
         "BagLimit": "\n\nAtlantic (State/Federal) - 1 per person/daily\n-------\nGulf (State/Federal) - 5 per person/daily",
         "MinSize": "\n\nAtlantic (State/Federal) - 16 inches\n-------\nGulf (State/Federal) - 14 inches",
         "MaxSize": "None",
@@ -53,6 +57,7 @@
     },
 	"Ballyhoo": {
         "DisplayName": "Ballyhoo",
+		"Image": "",
         "BagLimit": "2 fish 100 pounds per person per day, whichever is greater",
         "MinSize": "None",
         "MaxSize": "None",
@@ -66,6 +71,7 @@
     },
     "Bonito": {
         "DisplayName": "Atlantic Bonito",
+		"Image": "",
         "BagLimit": "(Atlantic/Gulf) 2 fish or 100 pounds per person/day, whichever is greater.",
         "MinSize": "None",
         "MaxSize": "None",
@@ -79,6 +85,7 @@
     },
     "Ladyfish": {
         "DisplayName": "Ladyfish",
+		"Image": "",
         "BagLimit": "(Atlantic/Gulf) 2 fish or 100 pounds per person/day, whichever is greater.",
         "MinSize": "None",
         "MaxSize": "None",
@@ -92,6 +99,7 @@
     },
     "Barracuda Great": {
         "DisplayName": "Great Barracuda",
+		"Image": "",
         "BagLimit": "\n\n region: Collier thru Martin counties\n limit: 2 per person/day\n limit: 6 per vessel/day\n limit: Over 36 inches 1 per person/vessel.\n\n region: Rest of State\n limit: 2 fish or 100 pounds",
         "MinSize": "\n\n region: Collier thru Martin counties\n min: 15 Inches\n\n region: Rest of state\n min: No limit",
         "MaxSize": "36 Inches",
@@ -105,6 +113,7 @@
     },
     "Pinfish": {
         "DisplayName": "Pinfish",
+		"Image": "",
         "BagLimit": "(Atlantic/Gulf) 2 fish or 100 pounds per person/day, whichever is greater.",
         "MinSize": "None",
         "MaxSize": "None",
@@ -118,6 +127,7 @@
     },
     "Pinfish Spottail": {
         "DisplayName": "Spottail Pinfish",
+		"Image": "",
         "BagLimit": "(Atlantic/Gulf) 2 fish or 100 pounds per person/day, whichever is greater.",
         "MinSize": "None",
         "MaxSize": "None",
@@ -131,6 +141,7 @@
     },
     "Bermuda Chub": {
         "DisplayName": "Bermuda Chub",
+		"Image": "",
         "BagLimit": "2 fish or 100 pounds per person, per day, whichever is greater.",
         "MinSize": "None",
         "MaxSize": "None",
@@ -144,6 +155,7 @@
     },
     "Blue Fish": {
         "DisplayName": "Bluefish",
+		"Image": "",
         "BagLimit": "\n\nAtlantic (State) - 3 per person/daily - Nassau thru Miami counties.\nAtlantic (Federal) - 3 per person for anglers fishing from private recreational vessels and 5 per person on for-hire vessels.\nGulf (State/Federal) - 10 per person/daily - includes Monroe County",
         "MinSize": "\n\nAtlantic (State) - 12 inches\nAtlantic (Federal) - None\nGulf (State/Federal) - 12 inches",
         "MaxSize": "None",
@@ -157,6 +169,7 @@
     },
     "Jack Blue Runner": {
         "DisplayName": "Blue Runner Jack",
+		"Image": "",
         "BagLimit": "100 per person, per day",
         "MinSize": "None",
         "MaxSize": "None",
@@ -170,6 +183,7 @@
     },
     "Bone Fish": {
         "DisplayName": "Bonefish",
+		"Image": "",
         "BagLimit": "0 - CATCH AND RELEASE",
         "MinSize": "N/A",
         "MaxSize": "N/A",
@@ -183,6 +197,7 @@
     },
     "Butterfly Fish Banded": {
         "DisplayName": "Banded Butterflyfish",
+		"Image": "",
         "BagLimit": "0",
         "MinSize": "0 Inches",
         "MaxSize": "0 Inches",
@@ -196,6 +211,7 @@
     },
     "Butterfly Fish Foureye": {
         "DisplayName": "Foureye Butterflyfish",
+		"Image": "",
         "BagLimit": "20",
         "MinSize": "1",
         "MaxSize": "4",
@@ -209,6 +225,7 @@
     },
     "Butterfly Fish Reef": {
         "DisplayName": "Reef Butterflyfish",
+		"Image": "",
         "BagLimit": "75",
         "MinSize": "1",
         "MaxSize": "4",
@@ -222,6 +239,7 @@
     },
     "Cobia": {
         "DisplayName": "Cobia",
+		"Image": "cobia.jpg",
         "BagLimit": "Gulf and Atlantic (State/Federal) - 1 per person or 2 per vessel, whichever is less.",
         "MinSize": "Gulf and Atlantic (State/Federal) - 36 inches.",
         "MaxSize": "None",
@@ -235,6 +253,7 @@
     },
     "Croaker Atlantic": {
         "DisplayName": "Atlantic Croaker",
+		"Image": "",
         "BagLimit": "\nAtlantic (State) - 50 per person/per species.\nGulf (State) - 100 pounds per person",
         "MinSize": "None",
         "MaxSize": "None",
@@ -248,6 +267,7 @@
     },
     "Bass Black Sea": {
         "DisplayName": "Black Sea Bass",
+		"Image": "",
         "BagLimit": "\n\nAtlantic (State) - 7 per person/daily.\nAtlantic (Federal) - 7 fish per person\nGulf - 100 pounds per person/daily",
         "MinSize": "\n\nAtlantic (State) - 13 inches\nAtlantic (Federal) - 13 inches\nGulf - 10 inches",
         "MaxSize": "None",
@@ -261,6 +281,7 @@
     },
     "Drum Black": {
         "DisplayName": "Atlantic Black Drum",
+		"Image": "",
         "BagLimit": "5 per harvester per day (can include one (1) over 24 inches)",
         "MinSize": "14 inches",
         "MaxSize": "24 inches",
@@ -274,6 +295,7 @@
     },
     "Drum Red": {
         "DisplayName": "Red Drum",
+		"Image": "",
         "BagLimit": "\nPanhandle - 1 per person/daily or 4 per vessel/daily.\nBig Bend - 1 per person/daily or 4 per vessel/daily.\nTampa Bay - 1 per person/daily or 2 per vessel/daily.\nSarasota Bay - 1 per person/daily or 2 per vessel/daily\nCharlotte Harbor - 1 per person/daily or 2 per vessel/daily\nSouthwest - 1 per person/daily or 2 per vessel/daily\nSoutheast - 1 per person/daily or 2 per vessel/daily\nIndian River Lagoon - CATCH-AND-RELEASE\nNortheast - 1 per person/daily or 4 per vessel/daily",
         "MinSize": "Not less than 18 inches in the following regions.\nPanhandle\nBig Bed\nTampa Bay\nSarasota Bay\nCharlotte Harbor\nSouthwest\nSoutheast\nNortheast",
         "MaxSize": "No more than 27 inches in the following regions.\nPanhandle\nBig Bed\nTampa Bay\nSarasota Bay\nCharlotte Harbor\nSouthwest\nSoutheast\nNortheast",
@@ -287,6 +309,7 @@
     },
     "Drum Spotted": {
         "DisplayName": "Spotted Drum",
+		"Image": "",
         "BagLimit": "None",
         "MinSize": "None",
         "MaxSize": "None",
@@ -300,6 +323,7 @@
     },
     "Flounder Gulf": {
         "DisplayName": "Gulf Flounder",
+		"Image": "",
         "BagLimit": "Gulf and Atlantic(State) - 5 per person/daily",
         "MinSize": "14 Inches",
         "MaxSize": "None",
@@ -313,6 +337,7 @@
     },
     "Flounder Peacock Atlantic": {
         "DisplayName": "Atlantic Peacock Flounder",
+		"Image": "",
         "BagLimit": "5 fish per person per day",
         "MinSize": "14 Inches",
         "MaxSize": "None",
@@ -326,6 +351,7 @@
     },
     "Goatfish Spotted": {
         "DisplayName": "Spotted Goatfish",
+		"Image": "",
         "BagLimit": "20",
         "MinSize": "None",
         "MaxSize": "None",
@@ -339,6 +365,7 @@
     },
     "GoatFish Yellow Saddle": {
         "DisplayName": "Yellow-Saddle Goatfish",
+		"Image": "",
         "BagLimit": "20",
         "MinSize": "None",
         "MaxSize": "None",
@@ -352,6 +379,7 @@
     },
     "GoatFish Yellowstripe": {
         "DisplayName": "Yellowstripe Goatfish",
+		"Image": "",
         "BagLimit": "20",
         "MinSize": "None",
         "Seasons": "OPEN",
@@ -363,6 +391,7 @@
     },
     "Grouper Black": {
         "DisplayName": "Black Grouper",
+		"Image": "",
         "BagLimit": "\n\nAtlantic (State/Federal)\n1 gag or black within the 3 grouper aggregate\n\nVessel limit 2 black per vessel per day, not to exceed the daily bag limit, whichever is more restrictive\nFor-hire captain and crew retention prohibited\n\nGulf (State)\n4 per person within 4 grouper aggregate\n0 for Charter Captain and Crew\n\nGulf (Federal)\n4 per person within 4 grouper aggregate",
         "MinSize": "24 inches",
         "MaxSize": "None",
@@ -376,6 +405,7 @@
     },
     "Grouper Coney": {
         "DisplayName": "Coney Grouper",
+		"Image": "",
         "BagLimit": "Atlantic (State/Federal)\nUp to 3 per person within 3 grouper aggregate\n\nGulf (State/Federal)\nUp to 4 per person within the 4 grouper aggregate",
         "MinSize": "None",
         "MaxSize": "None",
@@ -389,6 +419,7 @@
     },
     "Grouper Gag": {
         "DisplayName": "Gag Grouper",
+		"Image": "",
         "BagLimit": "\n\nAtlantic (State/Federal)\n1 Gag or Black within the 3 grouper aggregate\nVessel limit 2 gag per vessel per day, not to exceed the daily bag limit, whichever is more restrictive\nFor-hire captain and crew retention prohibited\n\nGulf (State/Federal)\n2 per person/daily within 4 grouper aggregate\n0 for Charter Captain and Crew",
         "MinSize": "24 inches",
         "MaxSize": "None",
@@ -402,6 +433,7 @@
     },
     "Grouper Goliath": {
         "DisplayName": "Goliath Grouper",
+		"Image": "",
         "BagLimit": "0",
         "MinSize": "24 Inches",
         "MaxSize": "36 Inches",
@@ -415,6 +447,7 @@
     },
     "Grouper Graysby": {
         "DisplayName": "Graysby Grouper",
+		"Image": "",
         "BagLimit": "Atlantic (State/Federal)\n3 per person within 3 grouper aggregate\n\nGulf (State/Federal)\n4 per person within the 4 grouper aggregate",
         "MinSize": "None",
         "MaxSize": "None",
@@ -428,6 +461,7 @@
     },
     "Grouper Nassau": {
         "DisplayName": "Nassau Grouper",
+		"Image": "",
         "BagLimit": "0",
         "MinSize": "N/A",
         "MaxSize": "N/A",
@@ -441,6 +475,7 @@
     },
     "Grouper Tiger": {
         "DisplayName": "Tiger Grouper",
+		"Image": "",
         "BagLimit": "\n\nAtlantic (State/Federal)\n--\n3 per person within 3 grouper aggregate\n\nGulf (State/Federal)\n--\n4 per person within the 4 grouper aggregate",
         "MinSize": "None",
         "MaxSize": "None",
@@ -454,6 +489,7 @@
     },
     "Grouper Yellowfin": {
         "DisplayName": "Yellowfin Grouper",
+		"Image": "",
         "BagLimit": "\n\nAtlantic (State/Federal)\n--\n3 per person within 3 grouper aggregate\n\nGulf (State/Federal)\n--\n4 per person within the 4 grouper aggregate",
         "MinSize": "20 Inches",
         "MaxSize": "None",
@@ -467,6 +503,7 @@
     },
     "Grunt Porkfish": {
         "DisplayName": "Grunt Porkfish",
+		"Image": "",
         "BagLimit": "0 (When fishing for dinner), 10 (For live capture - Aquarium Display)",
         "MinSize": "1.5 inches",
         "MaxSize": "None",
@@ -480,6 +517,7 @@
     },
     "Jack Crevalle": {
         "DisplayName": "Crevalle Jack",
+		"Image": "",
         "BagLimit": "2 or 100 pounds per person, whichever is greater",
         "MinSize": "None",
         "MaxSize": "None",
@@ -493,6 +531,7 @@
     },
     "Needle Fish": {
         "DisplayName": "Needle Fish (Houndfish)",
+		"Image": "",
         "BagLimit": "2 or 100 pounds per person, whichever is greater",
         "MinSize": "None",
         "MaxSize": "None",
@@ -506,6 +545,7 @@
     },
     "Pompano Florida": {
         "DisplayName": "Florida Pompano",
+		"Image": "",
         "BagLimit": "6",
         "MinSize": "11 inches",
         "MaxSize": "None",
@@ -519,6 +559,7 @@
     },
     "Pompano African": {
         "DisplayName": "African Pompano",
+		"Image": "",
         "BagLimit": "Person: 2, Vessel: 2",
         "MinSize": "24 Inches",
         "MaxSize": "None",
@@ -532,6 +573,7 @@
     },
     "Shark Bull": {
         "DisplayName": "Bull Shark",
+		"Image": "",
         "BagLimit": "Person: 1, Vessel: 2",
         "MinSize": "54 inches",
         "MaxSize": "None",
@@ -545,6 +587,7 @@
     },
     "Grunt White": {
         "DisplayName": "White Grunt",
+		"Image": "",
         "BagLimit": "No established bag limit. General limit of 100 pounds applies.",
         "MinSize": "None",
         "MaxSize": "None",
@@ -558,6 +601,7 @@
     },
     "Wahoo": {
         "DisplayName": "Wahoo",
+		"Image": "",
         "BagLimit": "2",
         "MinSize": "None",
         "MaxSize": "None",
@@ -571,6 +615,7 @@
     },
     "Dolphinfish": {
         "DisplayName": "Dolphinfish (Mahi-mahi)",
+		"Image": "",
         "BagLimit": "Person: 5, Vessel 30. Bag and possession limit for captains and crew on for-hire vessels is zero.",
         "MinSize": "20 Inches",
         "MaxSize": "None",
@@ -584,6 +629,7 @@
     },
     "Snapper Yellowtail": {
         "DisplayName": "Yellowtail Snapper",
+		"Image": "",
         "BagLimit": "10",
         "MinSize": "12 Inches",
         "MaxSize": "None",
@@ -597,6 +643,7 @@
     },
     "Snapper Cubera": {
         "DisplayName": "Cubera Snapper",
+		"Image": "",
         "BagLimit": "10 (Aggregate Limit: 10). Only 2 over 30 Inches per person/vessel daily, which ever is less.",
         "MinSize": "12 Inches",
         "MaxSize": "30 Inches",
@@ -610,6 +657,7 @@
     },
     "Snapper Mutton": {
         "DisplayName": "Mutton Snapper",
+		"Image": "",
         "BagLimit": "5 (Aggregate Limit: 10)",
         "MinSize": "18 Inches",
         "MaxSize": "None",
@@ -623,6 +671,7 @@
     },
     "Snapper Red": {
         "DisplayName": "Red Snapper",
+		"Image": "",
         "BagLimit": "\n\nAtlantic: (State) - 2 per person\n Atlantic (Federal) - 1 per person\n\nGulf (State/Federal): 2 per person\n(included in the 10 per harvester per day state snapper aggregate bag limit).\nCharter captain and crew: 0",
         "MinSize": "State: 16 Inches\nFederal: None",
         "MaxSize": "None",
@@ -636,6 +685,7 @@
     },
     "Snapper Vermilion": {
         "DisplayName": "Vermilion Snapper",
+		"Image": "",
         "BagLimit": "\n\nAtlantic (State/Federal): 5 per person (not included in the 10 snapper aggregate bag limit).\n\nGulf (State) - 10 per person (not included in the 10 snapper aggregate bag limit)\nGulf (Federal) -  10/person (Within 20 reef fish aggregate).",
         "MinSize": "\n\nAtlantic: 12 Inches\nGulf: 10 Inches",
         "MaxSize": "None",
@@ -649,6 +699,7 @@
     },
 	"Snapper Lane": {
         "DisplayName": "Lane Snapper",
+		"Image": "",
         "BagLimit": "\n\nAtlantic (State/Federal): 10 per person (Within the 10 snapper aggregate bag limit).\n\nGulf (State) - Bag limit of 100 pounds .\nGulf (Federal) - 20 under their 20-reef fish aggregate",
         "MinSize": "\n\nAtlantic: 8 Inches\nGulf: 8 Inches",
         "MaxSize": "None",
@@ -662,6 +713,7 @@
     },
 	"Snapper Gray Mangrove": {
         "DisplayName": "Mangrove Snapper",
+		"Image": "",
         "BagLimit": "\n\nAtlantic (State): 5 per person (Within the 10 snapper aggregate bag limit).\n---\nAtlantic (Federal) - 10 per person within the 10 snapper aggregate bag limit.\n\nGulf (State) - 5 per person within the 10 snapper aggregate bag limit.\n---\nGulf (Federal) - 10 per person within the 10 snapper aggregate bag limit.",
         "MinSize": "\n\nAtlantic (State): 10 Inches\n---\nAtlantic (Federal): 12 Inches\n-------\nGulf (State): 10 Inches\n---\nGulf (Federal): 12 Inches",
         "MaxSize": "None",
@@ -675,6 +727,7 @@
     },
 	"Snapper Schoolmaster": {
         "DisplayName": "Schoolmaster Snapper",
+		"Image": "",
         "BagLimit": "\n\nnAtlantic (State/Federal)\n---\n10 per person within the 10 snapper aggregate bag limit\n\nGulf (State/Federal)\n---\n10 per person within the 10 snapper aggregate bag limit ",
         "MinSize": "\n\nAtlantic (State/Federal): 10 Inches\n-------\nGulf (State/Federal): 10 Inches",
         "MaxSize": "None",
@@ -688,6 +741,7 @@
     },
 	"Snapper Black": {
         "DisplayName": "Black Snapper",
+		"Image": "",
         "BagLimit": "\n\nAtlantic/Gulf (State/Federal)\n--\nUp to 10 per person within the 10 snapper aggregate bag limit",
         "MinSize": "None",
         "MaxSize": "None",
@@ -701,6 +755,7 @@
     },
 	"Snapper Queen": {
         "DisplayName": "Queen Snapper",
+		"Image": "",
         "BagLimit": "\n\nAtlantic/Gulf (State/Federal)\n--\nUp to 10 per person within the 10 snapper aggregate bag limit",
         "MinSize": "None",
         "MaxSize": "None",
@@ -714,6 +769,7 @@
     },
 	"Snapper Blackfin": {
         "DisplayName": "Blackfin Snapper",
+		"Image": "",
         "BagLimit": "\n\nAtlantic/Gulf (State/Federal)\n--\nUp to 10 per person within the 10 snapper aggregate bag limit",
         "MinSize": "None",
         "MaxSize": "None",
@@ -727,6 +783,7 @@
     },
 	"Snapper Dog": {
         "DisplayName": "Dog Snapper",
+		"Image": "",
         "BagLimit": "\n\nAtlantic/Gulf (State/Federal)\n--\nUp to 10 per person within the 10 snapper aggregate bag limit",
         "MinSize": "12 Inches",
         "MaxSize": "None",
@@ -740,6 +797,7 @@
     },
     "Sheepshead": {
         "DisplayName": "Sheepshead",
+		"Image": "",
         "BagLimit": "\n\nAtlantic/Gulf (State/Federal) - 8 per Person\nAtlantic/Gulf (State/Federal) - 50 per vessel, per trip during March and April",
         "MinSize": "12 inches",
         "MaxSize": "None",
@@ -753,6 +811,7 @@
     },
     "Mackerel Cero": {
         "DisplayName": "Cero Mackerel",
+		"Image": "",
         "BagLimit": "2 fish or 100 lbs person/day which ever is more (Unregulated Species)",
         "MinSize": "None",
         "MaxSize": "None",
@@ -766,6 +825,7 @@
     },
     "Mackerel King": {
         "DisplayName": "King Mackerel",
+		"Image": "",
         "BagLimit": "2",
         "MinSize": "24 Inches",
         "MaxSize": "None",
@@ -779,6 +839,7 @@
     },
     "Mackerel Spanish Atlantic": {
         "DisplayName": "Atlantic Spanish Mackerel",
+		"Image": "",
         "BagLimit": "15",
         "MinSize": "12 Inches",
         "MaxSize": "None",
@@ -792,6 +853,7 @@
     },
     "Snook Common": {
         "DisplayName": "Common Snook",
+		"Image": "",
         "BagLimit": "\n\n1 fish per person/day applies per region\n------\nPanhandle (PH)\nBig Bend Region (BB)\nTampa Bay Region (TB)\nSarasota Bay Region (SB)\nCharlotte Harbor Region (CH)\nSouthwest Region (SW)\nSoutheast Region (SE)\nIndian River Lagoon Region (IRL)\nNortheast Region",
         "MinSize": "28 inches (All Regions)",
         "MaxSize": "32 inches (All Regions)",
@@ -805,6 +867,7 @@
     },
 	"Mullet": {
         "DisplayName": "Mullet",
+		"Image": "",
         "BagLimit": "Atlantic/Gulf (State/Federal)\n-------\n50 per Person\n---\n50 per Vessel (Sept. 1 - Jan. 31)\n---\n100 per Vessel (Feb. 1 - Aug. 31)",
         "MinSize": "None",
         "MaxSize": "None",
@@ -818,6 +881,7 @@
     },
 	"Porgy Red": {
         "DisplayName": "Red Porgy",
+		"Image": "",
         "BagLimit": "\n\nAtlantic (State/Federal)\n---\n1 fish per person\n-------\nGulf (State/Federal)\n---\n2 fish or 100 lbs. per person, whichever is more.",
         "MinSize": "\n\nAtlantic (State/Federal) - 14 inches\n-------\nGulf (State/Federal) - None",
         "MaxSize": "None",
@@ -831,6 +895,7 @@
     },
     "Permit": {
         "DisplayName": "Permit",
+		"Image": "",
         "BagLimit": "Person: 2 (1 over 22 inches), Vessel: 2 over 22 inches (daily). (SPZ) Person: 1, Vessel: 2",
         "MinSize": "11 Inches, (SPZ) 22 inches",
         "MaxSize": "22 Inches",
