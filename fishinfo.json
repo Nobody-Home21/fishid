@@ -57,7 +57,7 @@
     },
 	"Ballyhoo": {
         "DisplayName": "Ballyhoo",
-		"Image": "",
+		"Image": "ballyhoo.png",
         "BagLimit": "2 fish 100 pounds per person per day, whichever is greater",
         "MinSize": "None",
         "MaxSize": "None",
@@ -239,7 +239,7 @@
     },
     "Cobia": {
         "DisplayName": "Cobia",
-		"Image": "cobia.jpg",
+		"Image": "cobia.png",
         "BagLimit": "Gulf and Atlantic (State/Federal) - 1 per person or 2 per vessel, whichever is less.",
         "MinSize": "Gulf and Atlantic (State/Federal) - 36 inches.",
         "MaxSize": "None",
