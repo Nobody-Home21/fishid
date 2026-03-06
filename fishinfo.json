@@ -1,7 +1,7 @@
 {
 	"Amberjack Greater": {
         "DisplayName": "Greater Amberjack",
-		"Image": "",
+		"Image": "amberjack_greater.jpg",
         "BagLimit": "\n\nAtlantic (State/Federal) - 1 per person/daily\n-------\nGulf (State/Federal) - 1 per person/daily",
         "MinSize": "\n\nAtlantic (State/Federal) - 28 inches\n-------\nGulf (State/Federal) - 34 inches",
         "MaxSize": "None",
@@ -99,7 +99,7 @@
     },
     "Barracuda Great": {
         "DisplayName": "Great Barracuda",
-		"Image": "",
+		"Image": "barracuda_great.jpg",
         "BagLimit": "\n\n region: Collier thru Martin counties\n limit: 2 per person/day\n limit: 6 per vessel/day\n limit: Over 36 inches 1 per person/vessel.\n\n region: Rest of State\n limit: 2 fish or 100 pounds",
         "MinSize": "\n\n region: Collier thru Martin counties\n min: 15 Inches\n\n region: Rest of state\n min: No limit",
         "MaxSize": "36 Inches",
@@ -141,7 +141,7 @@
     },
     "Bermuda Chub": {
         "DisplayName": "Bermuda Chub",
-		"Image": "",
+		"Image": "bermuda_chub.jpg",
         "BagLimit": "2 fish or 100 pounds per person, per day, whichever is greater.",
         "MinSize": "None",
         "MaxSize": "None",
@@ -155,7 +155,7 @@
     },
     "Blue Fish": {
         "DisplayName": "Bluefish",
-		"Image": "",
+		"Image": "blue_fish.jpg",
         "BagLimit": "\n\nAtlantic (State) - 3 per person/daily - Nassau thru Miami counties.\nAtlantic (Federal) - 3 per person for anglers fishing from private recreational vessels and 5 per person on for-hire vessels.\nGulf (State/Federal) - 10 per person/daily - includes Monroe County",
         "MinSize": "\n\nAtlantic (State) - 12 inches\nAtlantic (Federal) - None\nGulf (State/Federal) - 12 inches",
         "MaxSize": "None",
@@ -267,7 +267,7 @@
     },
     "Bass Black Sea": {
         "DisplayName": "Black Sea Bass",
-		"Image": "",
+		"Image": "bass_black_sea.jpg",
         "BagLimit": "\n\nAtlantic (State) - 7 per person/daily.\nAtlantic (Federal) - 7 fish per person\nGulf - 100 pounds per person/daily",
         "MinSize": "\n\nAtlantic (State) - 13 inches\nAtlantic (Federal) - 13 inches\nGulf - 10 inches",
         "MaxSize": "None",
