@@ -71,7 +71,7 @@
     },
     "Bonito": {
         "DisplayName": "Atlantic Bonito",
-		"Image": "",
+		"Image": "bonito.jpg",
         "BagLimit": "(Atlantic/Gulf) 2 fish or 100 pounds per person/day, whichever is greater.",
         "MinSize": "None",
         "MaxSize": "None",
@@ -127,7 +127,7 @@
     },
     "Pinfish Spottail": {
         "DisplayName": "Spottail Pinfish",
-		"Image": "",
+		"Image": "pinfish_spottail.jpg",
         "BagLimit": "(Atlantic/Gulf) 2 fish or 100 pounds per person/day, whichever is greater.",
         "MinSize": "None",
         "MaxSize": "None",
@@ -183,7 +183,7 @@
     },
     "Bone Fish": {
         "DisplayName": "Bonefish",
-		"Image": "",
+		"Image": "bone_fish.jpg",
         "BagLimit": "0 - CATCH AND RELEASE",
         "MinSize": "N/A",
         "MaxSize": "N/A",
@@ -197,7 +197,7 @@
     },
     "Butterfly Fish Banded": {
         "DisplayName": "Banded Butterflyfish",
-		"Image": "",
+		"Image": "butterfly_fish_banded.jpg",
         "BagLimit": "0",
         "MinSize": "0 Inches",
         "MaxSize": "0 Inches",
@@ -211,7 +211,7 @@
     },
     "Butterfly Fish Foureye": {
         "DisplayName": "Foureye Butterflyfish",
-		"Image": "",
+		"Image": "butterfly_fish_foureye.jpg",
         "BagLimit": "20",
         "MinSize": "1",
         "MaxSize": "4",
@@ -225,7 +225,7 @@
     },
     "Butterfly Fish Reef": {
         "DisplayName": "Reef Butterflyfish",
-		"Image": "",
+		"Image": "butterfly_fish_reef.jpg",
         "BagLimit": "75",
         "MinSize": "1",
         "MaxSize": "4",
@@ -253,7 +253,7 @@
     },
     "Croaker Atlantic": {
         "DisplayName": "Atlantic Croaker",
-		"Image": "",
+		"Image": "croaker_atlantic.jpg",
         "BagLimit": "\nAtlantic (State) - 50 per person/per species.\nGulf (State) - 100 pounds per person",
         "MinSize": "None",
         "MaxSize": "None",
@@ -867,7 +867,7 @@
     },
 	"Mullet": {
         "DisplayName": "Mullet",
-		"Image": "",
+		"Image": "mullet.jpg",
         "BagLimit": "Atlantic/Gulf (State/Federal)\n-------\n50 per Person\n---\n50 per Vessel (Sept. 1 - Jan. 31)\n---\n100 per Vessel (Feb. 1 - Aug. 31)",
         "MinSize": "None",
         "MaxSize": "None",
