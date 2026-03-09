@@ -281,7 +281,7 @@
     },
     "Drum Black": {
         "DisplayName": "Atlantic Black Drum",
-		"Image": "",
+		"Image": "drum_black.jpg",
         "BagLimit": "5 per harvester per day (can include one (1) over 24 inches)",
         "MinSize": "14 inches",
         "MaxSize": "24 inches",
@@ -295,7 +295,7 @@
     },
     "Drum Red": {
         "DisplayName": "Red Drum",
-		"Image": "",
+		"Image": "drum_red.jpg",
         "BagLimit": "\nPanhandle - 1 per person/daily or 4 per vessel/daily.\nBig Bend - 1 per person/daily or 4 per vessel/daily.\nTampa Bay - 1 per person/daily or 2 per vessel/daily.\nSarasota Bay - 1 per person/daily or 2 per vessel/daily\nCharlotte Harbor - 1 per person/daily or 2 per vessel/daily\nSouthwest - 1 per person/daily or 2 per vessel/daily\nSoutheast - 1 per person/daily or 2 per vessel/daily\nIndian River Lagoon - CATCH-AND-RELEASE\nNortheast - 1 per person/daily or 4 per vessel/daily",
         "MinSize": "Not less than 18 inches in the following regions.\nPanhandle\nBig Bed\nTampa Bay\nSarasota Bay\nCharlotte Harbor\nSouthwest\nSoutheast\nNortheast",
         "MaxSize": "No more than 27 inches in the following regions.\nPanhandle\nBig Bed\nTampa Bay\nSarasota Bay\nCharlotte Harbor\nSouthwest\nSoutheast\nNortheast",
@@ -309,7 +309,7 @@
     },
     "Drum Spotted": {
         "DisplayName": "Spotted Drum",
-		"Image": "",
+		"Image": "drum_spotted.jpg",
         "BagLimit": "None",
         "MinSize": "None",
         "MaxSize": "None",
