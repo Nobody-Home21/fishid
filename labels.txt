@@ -29,6 +29,7 @@ Grouper Graysby
 Grouper Nassau
 Grouper Tiger
 Grouper Yellowfin
+Grunt Bluestriped
 Grunt Porkfish
 Grunt White
 Hogfish
