@@ -323,7 +323,7 @@
     },
     "Flounder Gulf": {
         "DisplayName": "Gulf Flounder",
-		"Image": "",
+		"Image": "flounder_gulf.jpg",
         "BagLimit": "Gulf and Atlantic(State) - 5 per person/daily",
         "MinSize": "14 Inches",
         "MaxSize": "None",
@@ -337,7 +337,7 @@
     },
     "Flounder Peacock Atlantic": {
         "DisplayName": "Atlantic Peacock Flounder",
-		"Image": "",
+		"Image": "flounder_peacock_atlantic.jpg",
         "BagLimit": "5 fish per person per day",
         "MinSize": "14 Inches",
         "MaxSize": "None",
@@ -349,49 +349,9 @@
         "IsProhibited": false,
         "Description": "Caught with various methods, including hook and line, jigs, and gigging, especially at night in shallow waters. Inhabits sandy or muddy bottoms in coastal waters, bays, and tidal creeks. Juveniles are often found in higher salinity seagrass beds."
     },
-    "Goatfish Spotted": {
-        "DisplayName": "Spotted Goatfish",
-		"Image": "",
-        "BagLimit": "20",
-        "MinSize": "None",
-        "MaxSize": "None",
-        "Measurement": "None",
-        "Seasons": "OPEN",
-        "Conditions": "Sale is prohibited for recreationally caught marine life organisms. Collection is prohibited in certain areas, such as the Blue Heron Bridge dive site and John Pennekamp Coral Reef State Park. All harvested organisms must be kept alive and in a continuously circulating live well or aeration system.",
-        "Gear": "Legal - Hook and line, hand-held net, drop net, barrier net, or slurp gun.\nIlegal - Use of quinaldine is prohibited, snatching (grabbing with hooks) is prohibited.",
-        "IsEdible": true,
-        "IsProhibited": false,
-        "Description": "Primarily feeds on bottom-dwelling invertebrates such as crabs, shrimp, worms, and mollusks. Found in shallow waters near reefs, over sand or rocky bottoms, and juveniles can be found in seagrass beds."
-    },
-    "GoatFish Yellow Saddle": {
-        "DisplayName": "Yellow-Saddle Goatfish",
-		"Image": "",
-        "BagLimit": "20",
-        "MinSize": "None",
-        "MaxSize": "None",
-        "Measurement": "None",
-        "Seasons": "OPEN",
-        "Conditions": "Sale is prohibited for recreationally caught marine life organisms. Collection is prohibited in certain areas, such as the Blue Heron Bridge dive site and John Pennekamp Coral Reef State Park. All harvested organisms must be kept alive and in a continuously circulating live well or aeration system.",
-        "Gear": "Legal - Hook and line, hand-held net, drop net, barrier net, or slurp gun.\nIlegal - Use of quinaldine is prohibited, snatching (grabbing with hooks) is prohibited.",
-        "IsEdible": true,
-        "IsProhibited": false,
-        "Description": "As carnivores, they eat meaty foods such as shrimp, crustaceans, worms, and other small invertebrates. They spend a significant amount of time sifting through the sand to find small prey like invertebrates and worms. Found in the Indo-Pacific, on coral reefs, rubble areas, and lagoons."
-    },
-    "GoatFish Yellowstripe": {
-        "DisplayName": "Yellowstripe Goatfish",
-		"Image": "",
-        "BagLimit": "20",
-        "MinSize": "None",
-        "Seasons": "OPEN",
-        "Conditions": "Sale is prohibited for recreationally caught marine life organisms. Collection is prohibited in certain areas, such as the Blue Heron Bridge dive site and John Pennekamp Coral Reef State Park. All harvested organisms must be kept alive and in a continuously circulating live well or aeration system.",
-        "Gear": "Legal - Hook and line, hand-held net, drop net, barrier net, or slurp gun.\nIlegal - Use of quinaldine is prohibited, snatching (grabbing with hooks) is prohibited.",
-        "IsEdible": true,
-        "IsProhibited": false,
-        "Description": "Eats worms, crustaceans, mollusks, and small invertebrates. Found in sandy areas of lagoons and seaward reefs, often schooling in the water column over reefs between 1 and 76 meters (3 to 250 feet) deep."
-    },
     "Grouper Black": {
         "DisplayName": "Black Grouper",
-		"Image": "",
+		"Image": "grouper_black.jpg",
         "BagLimit": "\n\nAtlantic (State/Federal)\n1 gag or black within the 3 grouper aggregate\n\nVessel limit 2 black per vessel per day, not to exceed the daily bag limit, whichever is more restrictive\nFor-hire captain and crew retention prohibited\n\nGulf (State)\n4 per person within 4 grouper aggregate\n0 for Charter Captain and Crew\n\nGulf (Federal)\n4 per person within 4 grouper aggregate",
         "MinSize": "24 inches",
         "MaxSize": "None",
@@ -405,7 +365,7 @@
     },
     "Grouper Coney": {
         "DisplayName": "Coney Grouper",
-		"Image": "",
+		"Image": "grouper_coney.jpg",
         "BagLimit": "Atlantic (State/Federal)\nUp to 3 per person within 3 grouper aggregate\n\nGulf (State/Federal)\nUp to 4 per person within the 4 grouper aggregate",
         "MinSize": "None",
         "MaxSize": "None",
@@ -419,7 +379,7 @@
     },
     "Grouper Gag": {
         "DisplayName": "Gag Grouper",
-		"Image": "",
+		"Image": "grouper_gag.jpg",
         "BagLimit": "\n\nAtlantic (State/Federal)\n1 Gag or Black within the 3 grouper aggregate\nVessel limit 2 gag per vessel per day, not to exceed the daily bag limit, whichever is more restrictive\nFor-hire captain and crew retention prohibited\n\nGulf (State/Federal)\n2 per person/daily within 4 grouper aggregate\n0 for Charter Captain and Crew",
         "MinSize": "24 inches",
         "MaxSize": "None",
@@ -433,7 +393,7 @@
     },
     "Grouper Goliath": {
         "DisplayName": "Goliath Grouper",
-		"Image": "",
+		"Image": "grouper_goliath.jpg",
         "BagLimit": "0",
         "MinSize": "24 Inches",
         "MaxSize": "36 Inches",
@@ -447,7 +407,7 @@
     },
     "Grouper Graysby": {
         "DisplayName": "Graysby Grouper",
-		"Image": "",
+		"Image": "grouper_graysby.jpg",
         "BagLimit": "Atlantic (State/Federal)\n3 per person within 3 grouper aggregate\n\nGulf (State/Federal)\n4 per person within the 4 grouper aggregate",
         "MinSize": "None",
         "MaxSize": "None",
@@ -461,7 +421,7 @@
     },
     "Grouper Nassau": {
         "DisplayName": "Nassau Grouper",
-		"Image": "",
+		"Image": "grouper_nassau.jpg",
         "BagLimit": "0",
         "MinSize": "N/A",
         "MaxSize": "N/A",
@@ -475,7 +435,7 @@
     },
     "Grouper Tiger": {
         "DisplayName": "Tiger Grouper",
-		"Image": "",
+		"Image": "grouper_tiger.jpg",
         "BagLimit": "\n\nAtlantic (State/Federal)\n--\n3 per person within 3 grouper aggregate\n\nGulf (State/Federal)\n--\n4 per person within the 4 grouper aggregate",
         "MinSize": "None",
         "MaxSize": "None",
