@@ -29,7 +29,7 @@
     },
 	"Jack Yellow": {
         "DisplayName": "Yellow Jack",
-		"Image": "",
+		"Image": "jack_yellow.jpg",
         "BagLimit": "\n\nAtlantic (State) - 100 pounds per person or 2 fish (whichever is greater)\n---\nAtlantic (Federal) - Regulations no longer in effect\n-------\nGulf (State/Federal) - 100 pounds per person or 2 fish (whichever is greater)",
         "MinSize": "\n\nAtlantic (State/Federal) - None\n-------\nGulf (State/Federal) - None",
         "MaxSize": "None",
@@ -449,7 +449,7 @@
     },
     "Grouper Yellowfin": {
         "DisplayName": "Yellowfin Grouper",
-		"Image": "",
+		"Image": "grouper_yellowfin.jpg",
         "BagLimit": "\n\nAtlantic (State/Federal)\n--\n3 per person within 3 grouper aggregate\n\nGulf (State/Federal)\n--\n4 per person within the 4 grouper aggregate",
         "MinSize": "20 Inches",
         "MaxSize": "None",
@@ -463,7 +463,7 @@
     },
     "Grunt Porkfish": {
         "DisplayName": "Grunt Porkfish",
-		"Image": "",
+		"Image": "grunt_porkfish.jpg",
         "BagLimit": "0 (When fishing for dinner), 10 (For live capture - Aquarium Display)",
         "MinSize": "1.5 inches",
         "MaxSize": "None",
@@ -477,7 +477,7 @@
     },
     "Jack Crevalle": {
         "DisplayName": "Crevalle Jack",
-		"Image": "",
+		"Image": "jack_crevalle.jpg",
         "BagLimit": "2 fish or 100 pounds per person, whichever is greater",
         "MinSize": "None",
         "MaxSize": "None",
