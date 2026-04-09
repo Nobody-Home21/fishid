@@ -519,7 +519,7 @@
     },
     "Pompano African": {
         "DisplayName": "African Pompano",
-		"Image": "",
+		"Image": "pompano_african.jpg",
         "BagLimit": "Person: 2, Vessel: 2",
         "MinSize": "24 Inches",
         "MaxSize": "None",
@@ -785,7 +785,7 @@
     },
     "Mackerel Cero": {
         "DisplayName": "Cero Mackerel",
-		"Image": "",
+		"Image": "mackerel_cero.jpg",
         "BagLimit": "2 fish or 100 lbs person/day which ever is more (Unregulated Species)",
         "MinSize": "None",
         "MaxSize": "None",
@@ -799,7 +799,7 @@
     },
     "Mackerel King": {
         "DisplayName": "King Mackerel",
-		"Image": "",
+		"Image": "mackerel_king.jpg",
         "BagLimit": "2",
         "MinSize": "24 Inches",
         "MaxSize": "None",
@@ -813,7 +813,7 @@
     },
     "Mackerel Spanish Atlantic": {
         "DisplayName": "Atlantic Spanish Mackerel",
-		"Image": "",
+		"Image": "mackerel_spanish_atlantic.jpg",
         "BagLimit": "15",
         "MinSize": "12 Inches",
         "MaxSize": "None",
