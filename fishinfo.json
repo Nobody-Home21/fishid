@@ -43,7 +43,7 @@
     },
 	"Hogfish": {
         "DisplayName": "Hogfish",
-		"Image": "",
+		"Image": "hogfish.jpg",
         "BagLimit": "\n\nAtlantic (State/Federal) - 1 per person/daily\n-------\nGulf (State/Federal) - 5 per person/daily",
         "MinSize": "\n\nAtlantic (State/Federal) - 16 inches\n-------\nGulf (State/Federal) - 14 inches",
         "MaxSize": "None",
