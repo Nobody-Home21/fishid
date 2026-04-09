@@ -15,7 +15,7 @@
     },
 	"Seatrout Spotted": {
         "DisplayName": "Spotted Seatrout",
-		"Image": "",
+		"Image": "seatrout_spotted.jpg",
         "BagLimit": "\n\nAtlantic/Gulf (State/Federal)\n-----\n\nWestern Panhandle: 3 per harvester\n---\nZero captain and crew bag limit when on a for-hire trip\n\nBig Bend: 5 per harvester\n---\nZero captain and crew bag limit when on a for-hire trip\n\nSouth: 3 per harvester\n---\nZero captain and crew bag limit when on a for-hire trip\n\nCentral East: 2 per harvester\n---\nZero captain and crew bag limit when on a for-hire trip\n\nNortheast: 5 per harvester\n---\nZero captain and crew bag limit when on a for-hire trip",
         "MinSize": "\n\nAtlantic/Gulf (State/Federal)\n-----\n\nWestern Panhandle: 15 inches\n---\nBig Bend: 15 inches\n---\nSouth: 15 inches\n---\nCentral East: 15 inches\n---\nNortheast: 15 inches",
         "MaxSize": "\n\nAtlantic/Gulf (State/Federal)\n-----\n\nWestern Panhandle: 19 inches\n---\nBig Bend: 19 inches\n---\nSouth: 19 inches\n---\nCentral East: 19 inches\n---\nNortheast: 19 inches\n\nMay possess one over 19 inches per vessel or, if fishing from shore, one over 19 inches per person, included in the bag limit.",
