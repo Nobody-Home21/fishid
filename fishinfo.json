@@ -715,7 +715,7 @@
     },
 	"Snapper Black": {
         "DisplayName": "Black Snapper",
-		"Image": "",
+		"Image": "snapper_black.jpg",
         "BagLimit": "\n\nAtlantic/Gulf (State/Federal)\n--\nUp to 10 per person within the 10 snapper aggregate bag limit",
         "MinSize": "None",
         "MaxSize": "None",
@@ -743,7 +743,7 @@
     },
 	"Snapper Blackfin": {
         "DisplayName": "Blackfin Snapper",
-		"Image": "",
+		"Image": "snapper_blackfin.jpg",
         "BagLimit": "\n\nAtlantic/Gulf (State/Federal)\n--\nUp to 10 per person within the 10 snapper aggregate bag limit",
         "MinSize": "None",
         "MaxSize": "None",
