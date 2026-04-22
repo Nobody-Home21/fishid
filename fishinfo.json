@@ -603,7 +603,7 @@
     },
     "Snapper Yellowtail": {
         "DisplayName": "Yellowtail Snapper",
-		"Image": "",
+		"Image": "snapper_yellowtail.jpg",
         "BagLimit": "10",
         "MinSize": "12 Inches",
         "MaxSize": "None",
@@ -617,7 +617,7 @@
     },
     "Snapper Cubera": {
         "DisplayName": "Cubera Snapper",
-		"Image": "",
+		"Image": "snapper_cubera.jpg",
         "BagLimit": "10 (Aggregate Limit: 10). Only 2 over 30 Inches per person/vessel daily, which ever is less.",
         "MinSize": "12 Inches",
         "MaxSize": "30 Inches",
@@ -631,7 +631,7 @@
     },
     "Snapper Mutton": {
         "DisplayName": "Mutton Snapper",
-		"Image": "",
+		"Image": "snapper_mutton.jpg",
         "BagLimit": "5 (Aggregate Limit: 10)",
         "MinSize": "18 Inches",
         "MaxSize": "None",
@@ -659,7 +659,7 @@
     },
     "Snapper Vermilion": {
         "DisplayName": "Vermilion Snapper",
-		"Image": "",
+		"Image": "snapper_vermilion.jpg",
         "BagLimit": "\n\nAtlantic (State/Federal): 5 per person (not included in the 10 snapper aggregate bag limit).\n\nGulf (State) - 10 per person (not included in the 10 snapper aggregate bag limit)\nGulf (Federal) -  10/person (Within 20 reef fish aggregate).",
         "MinSize": "\n\nAtlantic: 12 Inches\nGulf: 10 Inches",
         "MaxSize": "None",
@@ -757,7 +757,7 @@
     },
 	"Snapper Dog": {
         "DisplayName": "Dog Snapper",
-		"Image": "",
+		"Image": "snapper_dog.jpg",
         "BagLimit": "\n\nAtlantic/Gulf (State/Federal)\n--\nUp to 10 per person within the 10 snapper aggregate bag limit",
         "MinSize": "12 Inches",
         "MaxSize": "None",
@@ -827,7 +827,7 @@
     },
     "Snook Common": {
         "DisplayName": "Common Snook",
-		"Image": "",
+		"Image": "snook_common.jpg",
         "BagLimit": "\n\n1 fish per person/day applies per region\n------\nPanhandle (PH)\nBig Bend Region (BB)\nTampa Bay Region (TB)\nSarasota Bay Region (SB)\nCharlotte Harbor Region (CH)\nSouthwest Region (SW)\nSoutheast Region (SE)\nIndian River Lagoon Region (IRL)\nNortheast Region",
         "MinSize": "28 inches (All Regions)",
         "MaxSize": "32 inches (All Regions)",
