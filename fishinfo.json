@@ -85,7 +85,7 @@
     },
     "Ladyfish": {
         "DisplayName": "Ladyfish",
-		"Image": "",
+		"Image": "ladyfish.jpg",
         "BagLimit": "(Atlantic/Gulf) 2 fish or 100 pounds per person/day, whichever is greater.",
         "MinSize": "None",
         "MaxSize": "None",
@@ -113,7 +113,7 @@
     },
     "Pinfish": {
         "DisplayName": "Pinfish",
-		"Image": "",
+		"Image": "pinfish.jpg",
         "BagLimit": "(Atlantic/Gulf) 2 fish or 100 pounds per person/day, whichever is greater.",
         "MinSize": "None",
         "MaxSize": "None",
@@ -169,7 +169,7 @@
     },
     "Jack Blue Runner": {
         "DisplayName": "Blue Runner Jack",
-		"Image": "",
+		"Image": "jack_blue_runner.jpg",
         "BagLimit": "100 per person, per day",
         "MinSize": "None",
         "MaxSize": "None",
@@ -491,7 +491,7 @@
     },
     "Needle Fish": {
         "DisplayName": "Needle Fish (Houndfish)",
-		"Image": "",
+		"Image": "needle_fish.jpg",
         "BagLimit": "2 fish or 100 pounds per person, whichever is greater",
         "MinSize": "None",
         "MaxSize": "None",
@@ -505,7 +505,7 @@
     },
     "Pompano Florida": {
         "DisplayName": "Florida Pompano",
-		"Image": "",
+		"Image": "pompano_florida.jpg",
         "BagLimit": "6",
         "MinSize": "11 inches",
         "MaxSize": "None",
@@ -533,7 +533,7 @@
     },
     "Shark Bull": {
         "DisplayName": "Bull Shark",
-		"Image": "",
+		"Image": "shark_bull.jpg",
         "BagLimit": "1 fish per person, 2 fish per vessel",
         "MinSize": "54 inches",
         "MaxSize": "None",
