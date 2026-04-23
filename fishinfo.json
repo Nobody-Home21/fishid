@@ -687,7 +687,7 @@
     },
 	"Snapper Gray Mangrove": {
         "DisplayName": "Mangrove Snapper",
-		"Image": "",
+		"Image": "snapper_gray_mangrove.jpg",
         "BagLimit": "\n\nAtlantic (State): 5 per person (Within the 10 snapper aggregate bag limit).\n---\nAtlantic (Federal) - 10 per person within the 10 snapper aggregate bag limit.\n\nGulf (State) - 5 per person within the 10 snapper aggregate bag limit.\n---\nGulf (Federal) - 10 per person within the 10 snapper aggregate bag limit.",
         "MinSize": "\n\nAtlantic (State): 10 Inches\n---\nAtlantic (Federal): 12 Inches\n-------\nGulf (State): 10 Inches\n---\nGulf (Federal): 12 Inches",
         "MaxSize": "None",
