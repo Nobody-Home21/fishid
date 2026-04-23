@@ -673,7 +673,7 @@
     },
 	"Snapper Lane": {
         "DisplayName": "Lane Snapper",
-		"Image": "",
+		"Image": "snapper_lane.jpg",
         "BagLimit": "\n\nAtlantic (State/Federal): 10 per person (Within the 10 snapper aggregate bag limit).\n\nGulf (State) - 20 per person\nGulf (Federal) - 20 under their 20-reef fish aggregate",
         "MinSize": "\n\nAtlantic: 8 Inches\nGulf: 10 Inches",
         "MaxSize": "None",
