@@ -832,7 +832,7 @@
         "MinSize": "28 inches (All Regions)",
         "MaxSize": "\n\nSoutheast\nIndian River Lagoon\nNortheast\n\n32 inches\n\nPanhandle\nBig Bend\nTampa Bay\nSarasota Bay\nCharlotte Harbor\nSouthwest\n\n33 inches",
         "Measurement": "Total Length (All Regions)",
-        "Seasons": "\n\nPanhandle\nBig Bend\nTampa Bay\nSarasota Bay\n\nOpen: March 1 – April 30 and Sept. 1 – Nov. 30\nClosed: Dec. 1 – end of February and May 1 – Aug. 31\n\nCharlotte Harbor\nSouthwest\n\nOpen: March 1 – April 30 and Oct. 1 – Nov. 30\nClosed: Dec. 1 – end of February and May 1 – Sept. 30\n\nSoutheast\nIndian River Lagoon\nNortheast\n\nClosed: Dec. 15 – Jan. 31 and Jun. 1 – Aug. 31",
+        "Seasons": "\n\nPanhandle\nBig Bend\nTampa Bay\nSarasota Bay\n\nOpen: March 1 – April 30 and Sept. 1 – Nov. 30\n---\nClosed: Dec. 1 – end of February and May 1 – Aug. 31\n\nCharlotte Harbor\nSouthwest\n\nOpen: March 1 – April 30 and Oct. 1 – Nov. 30\n---\nClosed: Dec. 1 – end of February and May 1 – Sept. 30\n\nSoutheast\nIndian River Lagoon\nNortheast\n\nClosed: Dec. 15 – Jan. 31 and Jun. 1 – Aug. 31",
         "Conditions": "\n\nRegulations apply in all inland, state and adjacent federal waters.\n---\nNo commercial harvest or sale of snook is permitted.\n---\nMust remain in whole condition until landed ashore.\n---\nWhen on a for-hire trip, captain and crew may not retain a bag limit.\n\nSnook permit and recreational fishing license required\n\nPrior to purchasing a snook permit, check current regulations in the area you plan to fish. All sales are final. Refunds will not be given even if the species you plan to target is closed to harvest.",
         "Gear": "Legal - Hook and line only.",
         "IsEdible": true,
