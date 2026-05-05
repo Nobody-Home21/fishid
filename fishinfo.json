@@ -729,7 +729,7 @@
     },
 	"Snapper Queen": {
         "DisplayName": "Queen Snapper",
-		"Image": "",
+		"Image": "snapper_queen.jpg",
         "BagLimit": "\n\nAtlantic/Gulf (State/Federal)\n--\nUp to 10 per person within the 10 snapper aggregate bag limit",
         "MinSize": "None",
         "MaxSize": "None",
@@ -869,7 +869,7 @@
     },
     "Permit": {
         "DisplayName": "Permit",
-		"Image": "",
+		"Image": "permit.jpg",
         "BagLimit": "Person: 2 (1 over 22 inches), Vessel: 2 over 22 inches (daily). (SPZ) Person: 1, Vessel: 2",
         "MinSize": "11 Inches, (SPZ) 22 inches",
         "MaxSize": "22 Inches",
