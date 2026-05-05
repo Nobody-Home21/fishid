@@ -645,7 +645,7 @@
     },
     "Snapper Red": {
         "DisplayName": "Red Snapper",
-		"Image": "",
+		"Image": "snapper_red.jpg",
         "BagLimit": "\n\nAtlantic: (State) - 2 per person\n Atlantic (Federal) - 1 per person\n\nGulf (State/Federal): 2 per person\n(included in the 10 per harvester per day state snapper aggregate bag limit).\nCharter captain and crew: 0",
         "MinSize": "State: 16 Inches\nFederal: None",
         "MaxSize": "None",
@@ -855,7 +855,7 @@
     },
 	"Porgy Red": {
         "DisplayName": "Red Porgy",
-		"Image": "",
+		"Image": "porgy_red.jpg",
         "BagLimit": "\n\nAtlantic (State/Federal)\n---\n1 fish per person\n-------\nGulf (State/Federal)\n---\n2 fish or 100 lbs. per person, whichever is more.",
         "MinSize": "\n\nAtlantic (State/Federal) - 14 inches\n-------\nGulf (State/Federal) - None",
         "MaxSize": "None",
