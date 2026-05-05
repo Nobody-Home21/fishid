@@ -575,7 +575,7 @@
     },
     "Wahoo": {
         "DisplayName": "Wahoo",
-		"Image": "",
+		"Image": "wahoo.jpg",
         "BagLimit": "2",
         "MinSize": "None",
         "MaxSize": "None",
@@ -701,7 +701,7 @@
     },
 	"Snapper Schoolmaster": {
         "DisplayName": "Schoolmaster Snapper",
-		"Image": "",
+		"Image": "snapper_schoolmaster.jpg",
         "BagLimit": "\n\nnAtlantic (State/Federal)\n---\n10 per person within the 10 snapper aggregate bag limit\n\nGulf (State/Federal)\n---\n10 per person within the 10 snapper aggregate bag limit ",
         "MinSize": "\n\nAtlantic (State/Federal): 10 Inches\n-------\nGulf (State/Federal): 10 Inches",
         "MaxSize": "None",
@@ -771,7 +771,7 @@
     },
     "Sheepshead": {
         "DisplayName": "Sheepshead",
-		"Image": "",
+		"Image": "sheepshead.jpg",
         "BagLimit": "\n\nAtlantic/Gulf (State/Federal) - 8 per Person\nAtlantic/Gulf (State/Federal) - 50 per vessel, per trip during March and April",
         "MinSize": "12 inches",
         "MaxSize": "None",
