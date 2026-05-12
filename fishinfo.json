@@ -647,10 +647,10 @@
         "DisplayName": "Red Snapper",
 		"Image": "snapper_red.jpg",
         "BagLimit": "\n\nAtlantic: (State) - 2 per person\n Atlantic (Federal) - 1 per person\n\nGulf (State/Federal): 2 per person\n(included in the 10 per harvester per day state snapper aggregate bag limit).\nCharter captain and crew: 0",
-        "MinSize": "State: 16 Inches\nFederal: None",
+        "MinSize": "\n\nAtlantic: State: 20 Inches\nFederal: None\n\nGulf (State/Federal): 16 Inches",
         "MaxSize": "None",
         "Measurement": "Total Length",
-        "Seasons": "\n\nAtlantic (State) - OPENN\nAtlantic (Federal) - CLOSED\n\nGulf (State/Federal) - 2026 Season is closed Jan. 1 until season is announced.",
+        "Seasons": "\n\nAtlantic (State) - OPEN\nAtlantic (Federal) - CLOSED\n\n**** Starting May 22, 2026, new regulations will be in place for Atlantic state and federal waters. New regulations, including different size and bag limits, along with season dates can be found at MyFWC.com/AtlanticRedSnapper. ****\n\nGulf (State/Federal) - OPEN Multiple Days\n\nSummer Season:\nMay 22 - July 31 (Daily)\n\nFall Season:\nSep. 1 - Oct. 4 (Daily)\nOct. 9 - 11, 16 - 18, 23 - 25 (Fri., Sat., & Sun.)\nOct. 30 - Nov. 1 (Fri., Sat., & Sun.)\nNov. 7 - 8, 14 - 15, 21 - 22 (Sat. & Sun.)\nNov. 26 - 29 (Thanksgiving weekend)\nDec. 5 - 6, 12 - 13, 19 - 20 (Sat. & Sun.)\nDec. 25 - 27 (Christmas weekend)\nJan. 1 - 4, 2027 (Daily)\n\nSeason applies to:\nRecreational anglers fishing from private vessels in Florida Gulf state and federal waters\nCharter for-hire vessels that do not have a federal permit and are limited to harvest during the recreational season in Florida Gulf state waters only.",
         "Conditions": "Keep Whole - Removal of gills and guts allowed.",
         "Gear": "Dehooking device use required as needed. Descending device or venting tool rigged and ready is required when fishing for reef fish. Non-stainless steel, non-offset circle hooks when fishing with natural bait.",
         "IsEdible": true,
@@ -768,6 +768,20 @@
         "IsEdible": true,
         "IsProhibited": false,
         "Description": "Solitary, nocturnal carnivores found in coastal waters, reefs, and rocky areas at depths of 5–100+ meters. Massachusetts to Brazil, including the Caribbean and Gulf of Mexico. Primarily feeds on fishes, crustaceans, and invertebrates."
+    },
+		"Snapper Mahogany": {
+        "DisplayName": "Mahogany Snapper",
+		"Image": "snapper mahogany.jpg",
+        "BagLimit": "\n\nAtlantic/Gulf (State/Federal)\n--\nUp to 10 per person within the 10 snapper aggregate bag limit",
+        "MinSize": "12 Inches",
+        "MaxSize": "None",
+        "Measurement": "Total Length",
+        "Seasons": "OPEN (year-round)",
+        "Conditions": "None",
+        "Gear": "Reef fish gear requirements apply.",
+        "IsEdible": true,
+        "IsProhibited": false,
+        "Description": "Adults live in clear, shallow waters around coral reefs, mangroves, and rocky bottoms. They form large, tight schools during the day, often mixed with other snapper species like grunts. Nocturnal predators that eat small fish, shrimp, crabs, and cephalopods. While similar, the mahogany snapper's spot is lower on the body and crosses the lateral line, whereas the lane snapper has yellow stripes and a smaller eye."
     },
     "Sheepshead": {
         "DisplayName": "Sheepshead",
