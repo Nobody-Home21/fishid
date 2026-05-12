@@ -56,6 +56,7 @@ Snapper Blackfin
 Snapper Cubera
 Snapper Gray Mangrove
 Snapper Lane
+Snapper Mahogany
 Snapper Mutton
 Snapper Queen
 Snapper Red
