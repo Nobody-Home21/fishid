@@ -65,4 +65,5 @@ Snapper Vermilion
 Snapper Yellowtail
 Snook Common
 Tarpon
+Triggerfish Grey
 Wahoo
