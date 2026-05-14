@@ -3,7 +3,7 @@
   "jsonVersion": 27,
   "Json1Version": 13,
   "onnxVersion": 13,
-  "imagesVersion": 12,
+  "imagesVersion": 13,
   "txtUrl": "https://raw.githubusercontent.com/Nobody-Home21/fishid/refs/heads/main/labels.txt",
   "jsonUrl": "https://raw.githubusercontent.com/Nobody-Home21/fishid/refs/heads/main/fishinfo.json",
   "json1Url": "https://raw.githubusercontent.com/Nobody-Home21/fishid/refs/heads/main/report.json",
