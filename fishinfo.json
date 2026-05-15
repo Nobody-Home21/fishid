@@ -1,4 +1,18 @@
 {
+	"Tarpon": {
+        "DisplayName": "Tarpon",
+		"Image": "tarpon.jpg",
+        "BagLimit": "\n\nAtlantic (State/Federal)\n--\nGulf (State/Federal)\n\nTarpon is a catch-and-release only fishery.\n---\nOne tarpon tag per person per year may be purchased when in pursuit of a Florida state or world record. Vessel, transport and shipment limited to one fish.",
+        "MinSize": "\n\nAtlantic (State/Federal) - None\n----\nGulf (State/Federal) - None\n\nTarpon over 40 inches MUST remain in the water unless in pursuit of a state or world record using a tarpon tag. Keep tarpon, especially the gills, in as much water as is safely possible.",
+        "MaxSize": "None",
+        "Measurement": "Total Length",
+        "Seasons": "March 2026 - July 2026",
+        "Conditions": "During the months of April, May and June, no more than three fishing lines may be deployed from a vessel at any one time AND no person shall use, fish with, or place in the water any breakaway gear.\n\nFishing with gear that has a weight attached to a hook, artificial fly or lure in such a way that the weight hangs lower than the hook when the line or leader is suspended vertically from the rod is prohibited when fishing for any species year-round within Boca Grande Pass. If this gear is on board a fishing vessel while inside the boundaries of the Pass, it cannot be attached to any rod, line or leader and must be stowed. Natural bait is not considered to be a weight. If the jig fishes in an illegal manner it is prohibited. Any jig that allows the attached weight to slip down the shank so that it hangs lower than the hook while the line or leader is suspended vertically from the rod is prohibited, and must be stowed so it is not readily accessible.\n\nMap of Boca Grande Pass Boundaries:\n\nCharlotte Harbor Channel LB6 (26 degrees, 42.299 minutes north; 82 degrees, 16.551 minutes west)\n--\nConcrete Pier (26 degrees, 43.165 minutes north; 82 degrees, 15.778 minutes west)\n---\nPhosphate Dock (26 degrees, 43.216 minutes north; 82 degrees, 15.517 minutes west)\n---\nIntracoastal Waterway (26 degrees, 43.216 minutes north; 82 degrees, 14.703 minutes west)\n---\nFlashing Green #75 (26 degrees, 42.299 minutes north; 82 degrees, 14.580 minutes west)\n---\nQR Test Buoy (26 degrees, 42.002 minutes north; 82 degrees, 15.448 minutes west)",
+        "Gear": "\n\nLegal - Hook and line only.\n\nIlegal - Snagging, snatch hooking, spearing and the use of a multiple hook in conjunction with live or dead natural bait is prohibited",
+        "IsEdible": true,
+        "IsProhibited": false,
+        "Description": "While they live in coastal, saltwater environments, they can tolerate varying salinity, including freshwater. They are carnivorous, feeding on fish, crabs, and shrimp."
+    },
 	"Triggerfish Grey": {
         "DisplayName": "Grey Triggerfish",
 		"Image": "triggerfish_grey.jpg",
