@@ -66,4 +66,5 @@ Snapper Yellowtail
 Snook Common
 Tarpon
 Triggerfish Grey
+Tripletail
 Wahoo
