@@ -95,7 +95,7 @@
         "Gear": "\n\nLegal - Hook and line; cast net\n-----\nIlegal - Cannot harvest using any multiple hook in conjunction with live or dead natural bait; snatching prohibited",
         "IsEdible": true,
         "IsProhibited": false,
-        "Description": "Commonly found in shallow, inshore waters, tidal creeks, and seagrass beds (often 4–10 feet deep) from New York to Mexico, with high concentrations in the Gulf of Mexico. They prefer water temperatures between and moving to deeper, warmer waters during. Primarily diet shrimp, pinfish, pigfish, and mullet and/or small crustaceans. Most active during dawn, dusk, and nighttime.\n\nCommon Techniques: Live bait (shrimp/mullet) under a popping cork, artificial lures (e.g., Gulp shrimp), topwater plugs, and jigs."
+        "Description": "Commonly found in shallow, inshore waters, tidal creeks, and seagrass beds (often 4–10 feet deep) from New York to Mexico, with high concentrations in the Gulf of America. They prefer water temperatures between and moving to deeper, warmer waters during. Primarily diet shrimp, pinfish, pigfish, and mullet and/or small crustaceans. Most active during dawn, dusk, and nighttime.\n\nCommon Techniques: Live bait (shrimp/mullet) under a popping cork, artificial lures (e.g., Gulp shrimp), topwater plugs, and jigs."
     },
 	"Jack Yellow": {
         "DisplayName": "Yellow Jack",
@@ -109,7 +109,7 @@
         "Gear": "\n\nLegal - Hook and line, spear, gig, haul seines, and cast nets\n-----\nIlegal - Explosives, chemicals, bang sticks, and fish traps",
         "IsEdible": true,
         "IsProhibited": false,
-        "Description": "Found in the Gulf of Mexico, the Caribbean, and along the Florida Atlantic coast. They inhabit deep wrecks in summer and shallow reefs/flats in winter. Eats live shrimp on a yellow jig head is the top choice."
+        "Description": "Found in the Gulf of America, the Caribbean, and along the Florida Atlantic coast. They inhabit deep wrecks in summer and shallow reefs/flats in winter. Eats live shrimp on a yellow jig head is the top choice."
     },
 	"Hogfish": {
         "DisplayName": "Hogfish",
@@ -151,7 +151,7 @@
         "Gear": "Legal - Hook and line, spears, gigs, haul seines, and cast nets.",
         "IsEdible": true,
         "IsProhibited": false,
-        "Description": "They are pelagic, schooling fish found from Nova Scotia to Florida and the Gulf of Mexico in the West, and from Norway to South Africa in the East. They are highly active predators that feed on small fish, such as anchovies and sardines, as well as squid."
+        "Description": "They are pelagic, schooling fish found from Nova Scotia to Florida and the Gulf of America in the West, and from Norway to South Africa in the East. They are highly active predators that feed on small fish, such as anchovies and sardines, as well as squid."
     },
     "Ladyfish": {
         "DisplayName": "Ladyfish",
@@ -165,7 +165,7 @@
         "Gear": "Legal - Hook and line, spears, gigs, haul seines, and cast nets.",
         "IsEdible": true,
         "IsProhibited": false,
-        "Description": "Lives in tropical and subtropical coastal waters, including the Atlantic seaboard and Gulf of Mexico. Usually found inshore, brackish waters, bays, estuaries, mangrove areas, and even completely fresh water. Feeds from small fish and crustaceans (especially shrimp)."
+        "Description": "Lives in tropical and subtropical coastal waters, including the Atlantic seaboard and Gulf of America. Usually found inshore, brackish waters, bays, estuaries, mangrove areas, and even completely fresh water. Feeds from small fish and crustaceans (especially shrimp)."
     },
     "Barracuda Great": {
         "DisplayName": "Great Barracuda",
@@ -193,7 +193,7 @@
         "Gear": "Legal - Hook and line, spears, gigs, haul seines, and cast nets.",
         "IsEdible": true,
         "IsProhibited": false,
-        "Description": "Found in the Western Atlantic Ocean and Gulf of Mexico, on seagrass beds, coral reefs, rocky bottoms, and estuaries; juveniles prefer shallow water. Daytime feeder omnivorous species, eating algae, seagrass, plankton, small crabs, shrimp, and mollusks. Considered an excellent, underrated panfish, similar to other porgies or snapper."
+        "Description": "Found in the Western Atlantic Ocean and Gulf of America, on seagrass beds, coral reefs, rocky bottoms, and estuaries; juveniles prefer shallow water. Daytime feeder omnivorous species, eating algae, seagrass, plankton, small crabs, shrimp, and mollusks. Considered an excellent, underrated panfish, similar to other porgies or snapper."
     },
     "Pinfish Spottail": {
         "DisplayName": "Spottail Pinfish",
@@ -207,7 +207,7 @@
         "Gear": "Legal - Hook and line, spears, gigs, haul seines, and cast nets.",
         "IsEdible": true,
         "IsProhibited": false,
-        "Description": "Found in the Western Atlantic Ocean and Gulf of Mexico, on seagrass beds, coral reefs, rocky bottoms, and estuaries; juveniles prefer shallow water. Daytime feeder omnivorous species, eating algae, seagrass, plankton, small crabs, shrimp, and mollusks. Considered an excellent, underrated panfish, similar to other porgies or snapper."
+        "Description": "Found in the Western Atlantic Ocean and Gulf of America, on seagrass beds, coral reefs, rocky bottoms, and estuaries; juveniles prefer shallow water. Daytime feeder omnivorous species, eating algae, seagrass, plankton, small crabs, shrimp, and mollusks. Considered an excellent, underrated panfish, similar to other porgies or snapper."
     },
     "Bermuda Chub": {
         "DisplayName": "Bermuda Chub",
@@ -259,7 +259,7 @@
         "MaxSize": "N/A",
         "Measurement": "N/A",
         "Seasons": "OPEN",
-        "Conditions": "Use of Multiple Hooks is prohibited. The use of a dehooking device is required when fishing for reef fish. All persons aboard a vessel harvesting reef fish in the Gulf of Mexico must possess and use non-stainless steel non-offset circle hooks when using natural baits.",
+        "Conditions": "Use of Multiple Hooks is prohibited. The use of a dehooking device is required when fishing for reef fish. All persons aboard a vessel harvesting reef fish in the Gulf of America must possess and use non-stainless steel non-offset circle hooks when using natural baits.",
         "Gear": "Legal - Hook and line only.",
         "IsEdible": true,
         "IsProhibited": false,
@@ -277,7 +277,7 @@
         "Gear": "Legal - Hook and line only",
         "IsEdible": true,
         "IsProhibited": true,
-        "Description": "Omnivorous foragers that eat reef-dwelling invertebrates such as polychaete worms, coral polyps, and anemones. Found in shallow-water coral reefs and rocky areas, primarily the tropical western Atlantic Ocean, including the Caribbean Sea, Gulf of Mexico, and the coasts of Florida, Bermuda, and New England. "
+        "Description": "Omnivorous foragers that eat reef-dwelling invertebrates such as polychaete worms, coral polyps, and anemones. Found in shallow-water coral reefs and rocky areas, primarily the tropical western Atlantic Ocean, including the Caribbean Sea, Gulf of America, and the coasts of Florida, Bermuda, and New England. "
     },
     "Butterfly Fish Foureye": {
         "DisplayName": "Foureye Butterflyfish",
@@ -291,7 +291,7 @@
         "Gear": "specific gear, including hand-held nets, drop nets, rod and reel, barrier nets, and slurp guns. The use of quinaldine (a chemical anesthetic) is prohibited.",
         "IsEdible": true,
         "IsProhibited": false,
-        "Description": "They are carnivores that use their pointed mouths to feed on small invertebrates, such as worms, coral polyps, and gorgonians. Usually found in shallow coral reefs, rocky reefs, and seagrass beds at depths of 6–65 feet (2–20 m) in Western Atlantic Ocean, from Massachusetts to Brazil, including the Gulf of Mexico and the Caribbean."
+        "Description": "They are carnivores that use their pointed mouths to feed on small invertebrates, such as worms, coral polyps, and gorgonians. Usually found in shallow coral reefs, rocky reefs, and seagrass beds at depths of 6–65 feet (2–20 m) in Western Atlantic Ocean, from Massachusetts to Brazil, including the Gulf of America and the Caribbean."
     },
     "Butterfly Fish Reef": {
         "DisplayName": "Reef Butterflyfish",
@@ -389,7 +389,7 @@
         "Gear": "Any legal gear for saltwater fishing",
         "IsEdible": true,
         "IsProhibited": false,
-        "Description": "Also known as the (Spotted Ribbonfish) is a Nocturnal feeder. At night, it leaves its shelter to feed on small crustaceans (like shrimp and crabs) and polychaete worms found in the substrate. It primarily inhabits coral reefs, in shallow lagoons, reef faces, and near pier pilings. Found in the warmer, tropical waters of the Western Atlantic Ocean, from South Florida to Brazil, including the Bahamas, the Gulf of Mexico, and the Caribbean Sea."
+        "Description": "Also known as the (Spotted Ribbonfish) is a Nocturnal feeder. At night, it leaves its shelter to feed on small crustaceans (like shrimp and crabs) and polychaete worms found in the substrate. It primarily inhabits coral reefs, in shallow lagoons, reef faces, and near pier pilings. Found in the warmer, tropical waters of the Western Atlantic Ocean, from South Florida to Brazil, including the Bahamas, the Gulf of America, and the Caribbean Sea."
     },
     "Flounder Gulf": {
         "DisplayName": "Gulf Flounder",
@@ -431,7 +431,7 @@
         "Gear": "Dehooking device use required as needed. Descending device or venting tool rigged and ready is required when fishing for reef fish. Non-stainless steel, non-offset circle hooks when fishing with natural bait.",
         "IsEdible": true,
         "IsProhibited": false,
-        "Description": "Primarily eats fish, squid and crustaceans. Adults prefer rocky bottoms, reefs, and drop-off walls, while juveniles can be found in seagrass beds and oyster rubble. Usually found in the Western Atlantic, from Massachusetts to Brazil, including the Gulf of Mexico and the Caribbean. "
+        "Description": "Primarily eats fish, squid and crustaceans. Adults prefer rocky bottoms, reefs, and drop-off walls, while juveniles can be found in seagrass beds and oyster rubble. Usually found in the Western Atlantic, from Massachusetts to Brazil, including the Gulf of America and the Caribbean. "
     },
     "Grouper Coney": {
         "DisplayName": "Coney Grouper",
@@ -557,7 +557,7 @@
         "Gear": "Standard recreational gear such as hook and line, spears, and cast nets.",
         "IsEdible": true,
         "IsProhibited": false,
-        "Description": "Feeds on smaller fish, shrimp, and invertebrates and is known for being a powerful fighter. Found in a variety of environments, including offshore waters, reefs, seagrass beds, and estuaries. They can also move into brackish and even freshwater tributaries. Widespread in the Atlantic Ocean and Gulf of Mexico, from the shoreline to open water."
+        "Description": "Feeds on smaller fish, shrimp, and invertebrates and is known for being a powerful fighter. Found in a variety of environments, including offshore waters, reefs, seagrass beds, and estuaries. They can also move into brackish and even freshwater tributaries. Widespread in the Atlantic Ocean and Gulf of America, from the shoreline to open water."
     },
     "Needle Fish": {
         "DisplayName": "Needle Fish (Houndfish)",
@@ -627,7 +627,7 @@
         "Gear": "Any legal gear for saltwater fishing",
         "IsEdible": true,
         "IsProhibited": false,
-        "Description": "Nocturnal carnivore, eating shrimp, crabs, mollusks, small fish, and worms. Found in coastal to offshore, favoring reefs, seagrass, sand flats, and hard bottoms from Virginia to Brazil, Gulf of Mexico, Caribbean Sea"
+        "Description": "Nocturnal carnivore, eating shrimp, crabs, mollusks, small fish, and worms. Found in coastal to offshore, favoring reefs, seagrass, sand flats, and hard bottoms from Virginia to Brazil, Gulf of America, Caribbean Sea"
     },
 	"Grunt Bluestriped": {
         "DisplayName": "Bluestriped Grunt",
@@ -641,7 +641,7 @@
         "Gear": "Any legal gear for saltwater fishing",
         "IsEdible": true,
         "IsProhibited": false,
-        "Description": "Nocturnal carnivore, eating shrimp, crabs, mollusks, small fish, and worms. Found in coastal to offshore, favoring reefs, seagrass, sand flats, and hard bottoms from Virginia to Brazil, Gulf of Mexico, Caribbean Sea"
+        "Description": "Nocturnal carnivore, eating shrimp, crabs, mollusks, small fish, and worms. Found in coastal to offshore, favoring reefs, seagrass, sand flats, and hard bottoms from Virginia to Brazil, Gulf of America, Caribbean Sea"
     },
     "Wahoo": {
         "DisplayName": "Wahoo",
@@ -711,7 +711,7 @@
         "Gear": "Circle hooks, non-stainless steel hooks, dehooking device use required as needed, descending device/venting tool.",
         "IsEdible": true,
         "IsProhibited": false,
-        "Description": "Opportunistic predators eating crustaceans (shrimp, crabs), mollusks, small fish, and squid. Active day and night, picking prey from surfaces, and adopting darker, barred patterns when feeding near the bottom. Found in the Western Atlantic, from Massachusetts to Brazil, common in Florida, the Caribbean, and Gulf of Mexico. Lives in shallow, clear waters near reefs, seagrass beds, and mangroves as juveniles, moving to deeper offshore reefs as adults."
+        "Description": "Opportunistic predators eating crustaceans (shrimp, crabs), mollusks, small fish, and squid. Active day and night, picking prey from surfaces, and adopting darker, barred patterns when feeding near the bottom. Found in the Western Atlantic, from Massachusetts to Brazil, common in Florida, the Caribbean, and Gulf of America. Lives in shallow, clear waters near reefs, seagrass beds, and mangroves as juveniles, moving to deeper offshore reefs as adults."
     },
     "Snapper Red": {
         "DisplayName": "Red Snapper",
@@ -725,7 +725,7 @@
         "Gear": "Dehooking device use required as needed. Descending device or venting tool rigged and ready is required when fishing for reef fish. Non-stainless steel, non-offset circle hooks when fishing with natural bait.",
         "IsEdible": true,
         "IsProhibited": false,
-        "Description": "Found in the Gulf of Mexico and along the Atlantic coast, preferring offshore structures like reefs, wrecks, and oil rigs. Carnivores, eating fish, shrimp, crabs, squid, and worms. "
+        "Description": "Found in the Gulf of America and along the Atlantic coast, preferring offshore structures like reefs, wrecks, and oil rigs. Carnivores, eating fish, shrimp, crabs, squid, and worms. "
     },
     "Snapper Vermilion": {
         "DisplayName": "Vermilion Snapper",
@@ -739,7 +739,7 @@
         "Gear": "Dehooking device use required as needed. Descending device or venting tool rigged and ready is required when fishing for reef fish. Non-stainless steel, non-offset circle hooks when fishing with natural bait.",
         "IsEdible": true,
         "IsProhibited": false,
-        "Description": "Found in waters 60-400 feet deep, often over reefs, rocks, and sand. Offshore, from North Carolina to Brazil, in the Gulf of Mexico. Adults form large schools near structures. Eats fish, shrimp, crabs, squid, worms, and plankton"
+        "Description": "Found in waters 60-400 feet deep, often over reefs, rocks, and sand. Offshore, from North Carolina to Brazil, in the Gulf of America. Adults form large schools near structures. Eats fish, shrimp, crabs, squid, worms, and plankton"
     },
 	"Snapper Lane": {
         "DisplayName": "Lane Snapper",
@@ -809,7 +809,7 @@
         "Gear": "Reef fish gear requirements apply.",
         "IsEdible": true,
         "IsProhibited": false,
-        "Description": "They prefer rocky, deep-sea habitats and are often found in the Caribbean, Gulf of Mexico, and near the Bahamas. Queen snapper primarily feed on small fish, squid, and crustaceans."
+        "Description": "They prefer rocky, deep-sea habitats and are often found in the Caribbean, Gulf of America, and near the Bahamas. Queen snapper primarily feed on small fish, squid, and crustaceans."
     },
 	"Snapper Blackfin": {
         "DisplayName": "Blackfin Snapper",
@@ -837,7 +837,7 @@
         "Gear": "Reef fish gear requirements apply.",
         "IsEdible": true,
         "IsProhibited": false,
-        "Description": "Solitary, nocturnal carnivores found in coastal waters, reefs, and rocky areas at depths of 5–100+ meters. Massachusetts to Brazil, including the Caribbean and Gulf of Mexico. Primarily feeds on fishes, crustaceans, and invertebrates."
+        "Description": "Solitary, nocturnal carnivores found in coastal waters, reefs, and rocky areas at depths of 5–100+ meters. Massachusetts to Brazil, including the Caribbean and Gulf of America. Primarily feeds on fishes, crustaceans, and invertebrates."
     },
 		"Snapper Mahogany": {
         "DisplayName": "Mahogany Snapper",
@@ -907,7 +907,7 @@
         "Gear": "Any legal gear for saltwater fishing",
         "IsEdible": true,
         "IsProhibited": false,
-        "Description": "Migrates along the U.S. Atlantic Coast from Florida (winter) north to New York/New England (summer) and into the Gulf of Mexico. Forms large, fast-moving schools near the surface in coastal waters, barrier islands, and passes. Eats smaller fish (mullet, sardines, anchovies), shrimp, and crustaceans, often driving prey to the surface."
+        "Description": "Migrates along the U.S. Atlantic Coast from Florida (winter) north to New York/New England (summer) and into the Gulf of America. Forms large, fast-moving schools near the surface in coastal waters, barrier islands, and passes. Eats smaller fish (mullet, sardines, anchovies), shrimp, and crustaceans, often driving prey to the surface."
     },
     "Snook Common": {
         "DisplayName": "Common Snook",
@@ -921,7 +921,7 @@
         "Gear": "Legal - Hook and line only.",
         "IsEdible": true,
         "IsProhibited": false,
-        "Description": "Found in coastal waters, estuaries, mangroves, and sometimes freshwater, particularly in Florida and the Gulf of Mexico. Highly euryhaline, allowing them to thrive in both saltwater and freshwater, often moving between them for spawning. Opportunistic predators that feed on fish, crabs, and shrimp.\n\nRegions:\n-----\nThe western boundary is located at the Florida-Alabama border and the region extends to the eastern coastal boundary at 84°20.800 West Longitude in Franklin County near Alligator Point.\n-----\nThe western coastal boundary is located at 84°20.800 West Longitude in Franklin County near Alligator Point. The region extends east and south to Fred Howard Park, near the border of Pasco and Pinellas counties. Includes all waters of the Ochlockonee, Withlacoochee, and Anclote rivers and their tributaries.\n-----\nThe northern coastal boundary is located at Fred Howard Park, near the border of Pasco and Pinellas counties and the region extends south to State Road 64 in Manatee County. Includes all waters of the Alafia, Braden, Manatee, and Hillsborough rivers and their tributaries. Does not include the waters of Palma Sola Bay and all waters of the Anclote River and its tributaries.\n-----\nThe northern coastal boundary is located at State Road 64 in Manatee County and the region extends south to 27°04.727 North Latitude, near the Venice Municipal Airport. Includes all waters of Palma Sola Bay, Phillippi Creek, Cow Pen Slough Canal and Curry Creek. Does not include the waters of the Braden and Manatee rivers.\n-----\nThe northern coastal boundary is located at 27°04.727 North Latitude, near the Venice Municipal Airport, and the region extends south to 26°15.227 North Latitude, near Vanderbilt Beach Rd in Collier County. Includes all waters of the Caloosahatchee, Myakka, and Peace rivers and their tributaries. Does not include Lake Okeechobee.\n-----\nThe northern boundary is located at 26°15.227 North Latitude, near Vanderbilt Beach Rd in Collier County, and the region extends through the Florida Keys to the Monroe/Miami-Dade county line. Includes all inland waters and all waters of Everglades National Park.\n-----\nThe northern boundary is the Martin-Palm Beach county line and the region extends south to the Miami-Dade/Monroe county line. Includes all waters of Hillsboro Canal, Miami Canal, North New River Canal, and West Palm Beach Canal, and the Loxahatchee River and its tributaries. Does not include Lake Okeechobee and Everglades National Park.\nSpecial regulations apply for this species when fishing in Biscayne National Park.\n-----\nThe northern coastal boundary is located at Lytle Avenue/South Causeway in New Smyrna Beach and the region extends south to the Martin-Palm Beach county line. Includes all inland waters of the area, and all waters of the Kissimmee River, Lake Okeechobee and other lakes identified on the map with blue hatch. Does not include the waters of Loxahatchee and St. Johns rivers and their tributaries.\n-----\nThe northern coastal boundary is located at the Florida-Georgia border and the region extends south to the Lytle Avenue/South Causeway in New Smyrna Beach. Includes all inland waters of the area, and the waters of the St. Johns River and its tributaries. Does not include the waters of the Withlacoochee and Kissimmee rivers, Cypress Lake, and lakes Hatchineha and Kissimmee."
+        "Description": "Found in coastal waters, estuaries, mangroves, and sometimes freshwater, particularly in Florida and the Gulf of America. Highly euryhaline, allowing them to thrive in both saltwater and freshwater, often moving between them for spawning. Opportunistic predators that feed on fish, crabs, and shrimp.\n\nRegions:\n-----\nThe western boundary is located at the Florida-Alabama border and the region extends to the eastern coastal boundary at 84°20.800 West Longitude in Franklin County near Alligator Point.\n-----\nThe western coastal boundary is located at 84°20.800 West Longitude in Franklin County near Alligator Point. The region extends east and south to Fred Howard Park, near the border of Pasco and Pinellas counties. Includes all waters of the Ochlockonee, Withlacoochee, and Anclote rivers and their tributaries.\n-----\nThe northern coastal boundary is located at Fred Howard Park, near the border of Pasco and Pinellas counties and the region extends south to State Road 64 in Manatee County. Includes all waters of the Alafia, Braden, Manatee, and Hillsborough rivers and their tributaries. Does not include the waters of Palma Sola Bay and all waters of the Anclote River and its tributaries.\n-----\nThe northern coastal boundary is located at State Road 64 in Manatee County and the region extends south to 27°04.727 North Latitude, near the Venice Municipal Airport. Includes all waters of Palma Sola Bay, Phillippi Creek, Cow Pen Slough Canal and Curry Creek. Does not include the waters of the Braden and Manatee rivers.\n-----\nThe northern coastal boundary is located at 27°04.727 North Latitude, near the Venice Municipal Airport, and the region extends south to 26°15.227 North Latitude, near Vanderbilt Beach Rd in Collier County. Includes all waters of the Caloosahatchee, Myakka, and Peace rivers and their tributaries. Does not include Lake Okeechobee.\n-----\nThe northern boundary is located at 26°15.227 North Latitude, near Vanderbilt Beach Rd in Collier County, and the region extends through the Florida Keys to the Monroe/Miami-Dade county line. Includes all inland waters and all waters of Everglades National Park.\n-----\nThe northern boundary is the Martin-Palm Beach county line and the region extends south to the Miami-Dade/Monroe county line. Includes all waters of Hillsboro Canal, Miami Canal, North New River Canal, and West Palm Beach Canal, and the Loxahatchee River and its tributaries. Does not include Lake Okeechobee and Everglades National Park.\nSpecial regulations apply for this species when fishing in Biscayne National Park.\n-----\nThe northern coastal boundary is located at Lytle Avenue/South Causeway in New Smyrna Beach and the region extends south to the Martin-Palm Beach county line. Includes all inland waters of the area, and all waters of the Kissimmee River, Lake Okeechobee and other lakes identified on the map with blue hatch. Does not include the waters of Loxahatchee and St. Johns rivers and their tributaries.\n-----\nThe northern coastal boundary is located at the Florida-Georgia border and the region extends south to the Lytle Avenue/South Causeway in New Smyrna Beach. Includes all inland waters of the area, and the waters of the St. Johns River and its tributaries. Does not include the waters of the Withlacoochee and Kissimmee rivers, Cypress Lake, and lakes Hatchineha and Kissimmee."
     },
 	"Mullet": {
         "DisplayName": "Mullet",
