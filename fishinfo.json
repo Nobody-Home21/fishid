@@ -16,7 +16,7 @@
 		"Tilefish Golden": {
         "DisplayName": "Golden Tilefish",
 		"Image": "tilefish_golden.jpg",
-        "BagLimit": "\n\nAtlantic (State/Federal) - 1 per person, within 3 grouper/tilefish aggregate\n\nGulf (State/Federal) - 100 pounds or 2 per person, whichever is greater\n---\nGulf (Federal) - Included in the 20 reef fish aggregate",
+        "BagLimit": "\n\nAtlantic (State/Federal) - 1 per person, within 3 grouper/tilefish aggregate\n\nGulf (State) - 100 pounds or 2 per person, whichever is greater\n---\nGulf (Federal) - Included in the 20 reef fish aggregate",
         "MinSize": "\n\nAtlantic (State/Federal) - None\n---\nGulf (State/Federal) - None",
         "MaxSize": "None",
         "Measurement": "None",
