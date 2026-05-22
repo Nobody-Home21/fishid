@@ -1,4 +1,32 @@
 {
+		"Tilefish Blueline": {
+        "DisplayName": "Blueline Tilefish",
+		"Image": "tilefish_blueline.jpg",
+        "BagLimit": "\n\nAtlantic (State/Federal) - 1 per person, within 3 grouper/tilefish aggregate\n---\nCaptain and crew bag limit retention prohibited.\n\nGulf (State/Federal) - 2 per person within the three-fish aggregate bag limit for grouper and tilefish",
+        "MinSize": "\n\nAtlantic (State/Federal) - None\n---\nGulf (State/Federal) - None",
+        "MaxSize": "None",
+        "Measurement": "None",
+        "Seasons": "\n\nAtlantic (State/Federal) - OPEN May 1 - Aug. 31\n\nGulf (State/Federal) - OPEN year-round"",
+        "Conditions": "None",
+        "Gear": "\n\nReef fish gear requirements apply",
+        "IsEdible": true,
+        "IsProhibited": false,
+        "Description": "Tilefish inhabit the outer continental shelf and upper continental slope along the entire east coast of the United States and the Gulf of America south to Venezuela. They are found in waters from 250-1,500 feet deep, where bottom temperatures range from 49° to 58° F. Individuals live in cone-shaped burrows, and concentrate in small groups or pods. Females are smaller than males, although whether or not the species displays hermaphrodism is unknown. Tilefish feed during the day on the bottom on crustaceans, clams, snails, worms, anemones and sea cucumbers."
+    },
+		"Tilefish Golden": {
+        "DisplayName": "Golden Tilefish",
+		"Image": "tilefish_golden.jpg",
+        "BagLimit": "\n\nAtlantic (State/Federal) - 1 per person, within 3 grouper/tilefish aggregate\n\nGulf (State/Federal) - 100 pounds or 2 per person, whichever is greater\n---\nGulf (Federal) - Included in the 20 reef fish aggregate",
+        "MinSize": "\n\nAtlantic (State/Federal) - None\n---\nGulf (State/Federal) - None",
+        "MaxSize": "None",
+        "Measurement": "None",
+        "Seasons": "\n\nAtlantic (State) - OPEN year-round\n---\nAtlantic (Federal) - CLOSED March 27 - Dec. 31\n\nGulf (State/Federal) - OPEN year-round",
+        "Conditions": "None",
+        "Gear": "\n\nReef fish gear requirements apply",
+        "IsEdible": true,
+        "IsProhibited": false,
+        "Description": "Tilefish inhabit the outer continental shelf and upper continental slope along the entire east coast of the United States and the Gulf of America south to Venezuela. They are found in waters from 250-1,500 feet deep, where bottom temperatures range from 49° to 58° F. Individuals live in cone-shaped burrows, and concentrate in small groups or pods. Females are smaller than males, although whether or not the species displays hermaphrodism is unknown. Tilefish feed during the day on the bottom on crustaceans, clams, snails, worms, anemones and sea cucumbers."
+    },
 	"Tripletail": {
         "DisplayName": "Tripletail",
 		"Image": "tripletail.jpg",
