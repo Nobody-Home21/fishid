@@ -65,6 +65,8 @@ Snapper Vermilion
 Snapper Yellowtail
 Snook Common
 Tarpon
+Tilefish Blueline
+Tilefish Golden
 Triggerfish Grey
 Tripletail
 Wahoo
