@@ -32,6 +32,7 @@ Grouper Yellowfin
 Grunt Bluestriped
 Grunt Porkfish
 Grunt White
+Gulf Kingcroaker
 Hogfish
 Jack Blue Runner
 Jack Crevalle
