@@ -560,7 +560,7 @@
         "Description": "Feeds on smaller fish, shrimp, and invertebrates and is known for being a powerful fighter. Found in a variety of environments, including offshore waters, reefs, seagrass beds, and estuaries. They can also move into brackish and even freshwater tributaries. Widespread in the Atlantic Ocean and Gulf of America, from the shoreline to open water."
     },
 	    "Gulf Kingcroaker": {
-        "DisplayName": "Gulf King fish/croaker -(Whiting)",
+        "DisplayName": "Gulf Kingfish/Croaker - (Whiting)",
 		"Image": "gulf_kingcroaker.jpg",
         "BagLimit": "2 fish or 100 pounds per person, whichever is greater",
         "MinSize": "None",
