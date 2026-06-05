@@ -587,6 +587,20 @@
         "IsProhibited": false,
         "Description": "Feeds on smaller fish, shrimp, and invertebrates and is known for being a powerful fighter. Found in a variety of environments, including offshore waters, reefs, seagrass beds, and estuaries. They can also move into brackish and even freshwater tributaries. Widespread in the Atlantic Ocean and Gulf of America, from the shoreline to open water."
     },
+	    "Gulf Kingcroaker": {
+        "DisplayName": "Gulf Kingfish-Croaker - (Whiting)",
+		"Image": "gulf_kingcroaker.jpg",
+        "BagLimit": "2 fish or 100 pounds per person, whichever is greater",
+        "MinSize": "None",
+        "MaxSize": "None",
+        "Measurement": "None",
+        "Seasons": "OPEN",
+        "Conditions": "None (Unregulated Species)",
+        "Gear": "Standard recreational gear such as hook and line, spears, and cast nets.",
+        "IsEdible": true,
+        "IsProhibited": false,
+        "Description": "Found in coastal waters, common in surf zones along beaches. Feeds on fishes and invertabrates."
+    },
     "Needle Fish": {
         "DisplayName": "Needle Fish (Houndfish)",
 		"Image": "needle_fish.jpg",
