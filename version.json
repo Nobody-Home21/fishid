@@ -1,10 +1,6 @@
 {
   "txtVersion": 16,
-<<<<<<< HEAD
-  "jsonVersion": 37,
-=======
-  "jsonVersion": 39,
->>>>>>> f56c57a92b24389ddd8d5fe14b6468db74b7d011
+  "jsonVersion": 40,
   "Json1Version": 16,
   "onnxVersion": 16,
   "imagesVersion": 17,
