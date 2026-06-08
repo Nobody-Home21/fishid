@@ -27,6 +27,7 @@ Grouper Gag
 Grouper Goliath
 Grouper Graysby
 Grouper Nassau
+Grouper Snowy
 Grouper Tiger
 Grouper Yellowfin
 Grunt Bluestriped
@@ -43,6 +44,7 @@ Mackerel King
 Mackerel Spanish Atlantic
 Mullet
 Needle Fish
+Palometa
 Permit
 Pinfish
 Pinfish Spottail
