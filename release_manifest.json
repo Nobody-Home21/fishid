@@ -1,0 +1,54 @@
+{
+  "releaseVersion": "3.2.0",
+  "applicationVersion": 32,
+  "verifiedOn": "2026-08-15",
+  "catalogSchemaVersion": 3,
+  "speciesProfiles": 419,
+  "classifierClasses": 75,
+  "regulatoryOnlyProfiles": 344,
+  "freshwaterProfiles": 94,
+  "structuredRules": 496,
+  "ruleSources": 46,
+  "protectedAreaGeometrySources": 4,
+  "protectedAreaRules": 12,
+  "liveShellfishStatus": true,
+  "integrity": {
+    "labels.txt": "a86e0443b45dde253dff51e05d7b6fd034eca3dfe7d9921f1ab76832e53a31e2",
+    "fishinfo.json": "9af185f4c9db729b03506237e29451e9fc102ed89680e0105d8c3d1175579dd1",
+    "fishinfo.v2.json": "5586b8ce4a63205a2f2347034a2d4cbd5279900c542fb905474e2c99d9fae621",
+    "fishinfo.v3.json": "5a6761af5a642043d90aa40707fefc4cd2180575f2ef14f2801b3ebd3ac6e3b0",
+    "report.json": "e10be7539f5bb8f895320db2451f83f10e7a32d09bb77920ae3ef6a71f73c42b",
+    "fish_classifier.onnx": "a6dde599c34f09999ab3ecdfbc6f17ea9f0e28eb81ed21713ea164cea0cbe3f6",
+    "version.json": "cbb9e21c0a51260670dad2299d2261791c436d0e0e9d39f6d3ddd2b58e045b21",
+    "images.json": "644fd21d57de0631272de4d7c74ad24adb772940e0011e3a5e4944b2335b79c8",
+    "protected_area_rules.json": "20617eea2a07532c1d267a9b47741f817f8cc1618cf0581231f6ac4237632185",
+    "harvest_special_status.json": "f68ecd90c51743483f6e83a5645eca44c1f27691d12abc5f726f19686367de4b",
+    "Data/noaa_state_waters_florida.geojson": "2273cff3aa90cd7804b703afdd2e6c4977413c0db2c7068b24200161f25f904b",
+    "Data/snook_regions.geojson": "db44b67e9c51e56a5c013c85cedc380e9a7a87be2f42eafe3c7bdfbfbc9551f2",
+    "Data/noaa_eez200_florida.geojson": "38e5c26f786d047ae7e1b99b7962ea0ce18fd1c2b2450486d87ed3d70a226d5c",
+    "Data/boem_sla_florida.geojson": "d0b15c0cbaca25b8b2909424ecddf3573209e3e9a3c86f47d53791c69d4393fc"
+  },
+  "authorities": [
+    "Florida Fish and Wildlife Conservation Commission (FWC)",
+    "Florida Department of Agriculture and Consumer Services (FDACS)",
+    "NOAA Fisheries / regional federal fishery managers where represented",
+    "National Park Service (NPS)",
+    "Florida Department of Environmental Protection (FDEP)",
+    "NOAA Florida Keys National Marine Sanctuary"
+  ],
+  "uxCrossChecks": [
+    "Fish Rules"
+  ],
+  "notes": [
+    "FWC is the controlling Florida authority; Fish Rules is used as a secondary species-coverage and UX cross-check.",
+    "The regulatory/search catalog contains saltwater fish, marine life and protected resources plus Florida freshwater game fish, nongame fish, amphibians, crayfish, mussels/clams and freshwater turtles.",
+    "The camera classifier remains 75 trained classes. Regulatory/search-only profiles never claim camera identification support.",
+    "fishinfo.json, fishinfo.v2.json and fishinfo.v3.json are generated as one matching catalog release and are versioned/downloaded together.",
+    "The model bundle (labels/report/ONNX) is independent so regulation-only updates do not force a model download.",
+    "The packaged Resources/Raw payload is the offline fallback. The updater will not let older cached or remote files shadow/downgrade a newer packaged baseline.",
+    "Freshwater map context applies statewide freshwater rules but cannot distinguish dry land from water or identify every named waterbody/FMA; the UI warns the user to confirm exact waterbody rules.",
+    "Oyster and hard-clam profiles require exact-location FDACS harvesting-area classification and current daily OPEN/CLOSED verification.",
+    "images.json now carries a SHA-256 for every downloadable card; updater image staging verifies manifest/count/hash and replaces changed files atomically on image releases."
+  ],
+  "imageManifestItems": 72
+}
