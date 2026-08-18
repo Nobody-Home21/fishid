@@ -1,0 +1,31 @@
+{
+  "release": "FishID 3.3.0",
+  "application_build": 35,
+  "data_version": 49,
+  "db_schema_version": 2,
+  "model_version": 17,
+  "image_version": 19,
+  "assets": [
+    {
+      "name": "fishid.db",
+      "bytes": 8749056,
+      "sha256": "e3cd1ebeec5547b92bbf3a0fbdacbd9cd54f88aba7a0527c6823cdbef497d80f"
+    },
+    {
+      "name": "fish_classifier.onnx",
+      "bytes": 9232278,
+      "sha256": "a6dde599c34f09999ab3ecdfbc6f17ea9f0e28eb81ed21713ea164cea0cbe3f6"
+    },
+    {
+      "name": "report.json",
+      "bytes": 6248,
+      "sha256": "e10be7539f5bb8f895320db2451f83f10e7a32d09bb77920ae3ef6a71f73c42b"
+    },
+    {
+      "name": "cards.zip",
+      "bytes": 5106252,
+      "sha256": "25acfed1d55a17b561ec21c6930546ba0737da9699d1a528d7e714479bd02541"
+    }
+  ],
+  "note": "Convenience bundle only. The FishID GitHub data-v49 release should publish the four named files as individual release assets; the included workflow does this automatically."
+}
